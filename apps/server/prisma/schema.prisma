@@ -1,0 +1,50 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model Category {
+  id             String     @id @default(uuid())
+  slug           String     @unique
+  name_en        String
+  name_ar        String
+  icon           String?
+  description_en String?
+  description_ar String?
+  is_active      Boolean    @default(true)
+  created_at     DateTime   @default(now())
+  updated_at     DateTime   @updatedAt
+  questions      Question[]
+
+  @@index([slug])
+  @@index([is_active])
+  @@map("categories")
+}
+
+model Question {
+  id                   String   @id @default(uuid())
+  category_id          String
+  difficulty           String
+  points               Int
+  question_en          String   @unique
+  question_ar          String?
+  image_url            String?
+  options_en           Json
+  options_ar           Json?
+  correct_answer_index Int
+  explanation_en       String?
+  explanation_ar       String?
+  is_active            Boolean  @default(true)
+  created_at           DateTime @default(now())
+  updated_at           DateTime @updatedAt
+  category             Category @relation(fields: [category_id], references: [id], onDelete: Cascade)
+
+  @@index([category_id])
+  @@index([category_id, difficulty, is_active])
+  @@index([is_active])
+  @@map("questions")
+}

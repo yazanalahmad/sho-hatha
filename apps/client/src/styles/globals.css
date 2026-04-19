@@ -1,0 +1,151 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=DM+Sans:wght@400;500;600&family=Oswald:wght@600;700&family=Reem+Kufi+Ink&family=IBM+Plex+Sans+Arabic:wght@400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg-base: #0d0a06;
+  --bg-surface: #1c140a;
+  --bg-card: #271d10;
+  --bg-vignette: #34230d;
+  --bg-vignette-end: #0d0a06;
+  --noise-opacity: 0.04;
+  --gold-bright: #f2be35;
+  --gold-muted: #b28a2a;
+  --gold-glow: rgba(242, 190, 53, 0.28);
+  --team1: #e63e67;
+  --team2: #2f8df0;
+  --team1-glow: rgba(230, 62, 103, 0.36);
+  --team2-glow: rgba(47, 141, 240, 0.36);
+  --correct: #2dd887;
+  --wrong: #ff4757;
+  --text-primary: #f5e6c8;
+  --text-secondary: #a89060;
+  --text-dim: #5a4a30;
+}
+
+[data-theme='light'] {
+  --bg-base: #f8f2e4;
+  --bg-surface: #f4ead6;
+  --bg-card: #fff9ee;
+  --bg-vignette: #fff7e2;
+  --bg-vignette-end: #f8f2e4;
+  --noise-opacity: 0.025;
+  --gold-bright: #b8860b;
+  --gold-muted: #9b7b2f;
+  --gold-glow: rgba(184, 134, 11, 0.25);
+  --team1: #d12b57;
+  --team2: #1f6fd8;
+  --team1-glow: rgba(209, 43, 87, 0.25);
+  --team2-glow: rgba(31, 111, 216, 0.25);
+  --correct: #0f9f63;
+  --wrong: #d93b3b;
+  --text-primary: #1b1812;
+  --text-secondary: #5e4d24;
+  --text-dim: #7a6a47;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-height: 100dvh;
+  color: var(--text-primary);
+  font-family: 'DM Sans', sans-serif;
+  background-color: var(--bg-base);
+  background-image:
+    linear-gradient(rgba(255, 255, 255, var(--noise-opacity)), rgba(255, 255, 255, var(--noise-opacity))),
+    radial-gradient(ellipse at 50% 30%, var(--bg-vignette) 0%, var(--bg-vignette-end) 70%);
+  background-attachment: fixed;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+#root {
+  min-height: 100dvh;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: 'Bebas Neue', sans-serif;
+  letter-spacing: 0.04em;
+}
+
+[dir='rtl'] body {
+  font-family: 'IBM Plex Sans Arabic', 'DM Sans', sans-serif;
+}
+
+[dir='rtl'] h1,
+[dir='rtl'] h2,
+[dir='rtl'] h3,
+[dir='rtl'] h4 {
+  font-family: 'Reem Kufi Ink', 'Bebas Neue', sans-serif;
+}
+
+button {
+  min-height: 56px;
+  min-width: 56px;
+}
+
+:focus-visible {
+  outline: 2px solid #3d9be9;
+  outline-offset: 2px;
+}
+
+.card {
+  background: var(--bg-card);
+  border: 1px solid var(--gold-muted);
+  border-radius: 4px;
+  box-shadow:
+    0 0 0 1px rgba(245, 200, 66, 0.08) inset,
+    0 4px 24px rgba(0, 0, 0, 0.6);
+}
+
+[data-theme='light'] .card {
+  box-shadow:
+    0 0 0 1px rgba(184, 134, 11, 0.14) inset,
+    0 6px 24px rgba(112, 86, 32, 0.16);
+}
+
+[data-theme='light'] .text-ivory {
+  color: var(--text-primary) !important;
+}
+
+[data-theme='light'] .text-gold-muted {
+  color: var(--text-secondary) !important;
+}
+
+[data-theme='light'] .bg-bg-base {
+  background-color: var(--bg-base) !important;
+}
+
+[data-theme='light'] .bg-bg-surface {
+  background-color: var(--bg-surface) !important;
+}
+
+[data-theme='light'] .bg-bg-card {
+  background-color: var(--bg-card) !important;
+}
+
+[data-theme='light'] .border-gold-muted {
+  border-color: var(--gold-muted) !important;
+}
+
+.card--active {
+  border-color: var(--gold-bright);
+  box-shadow:
+    0 0 0 1px rgba(245, 200, 66, 0.2) inset,
+    0 0 20px var(--gold-glow),
+    0 4px 24px rgba(0, 0, 0, 0.6);
+}
+
+.gold-divider {
+  border: 0;
+  height: 1px;
+  background: linear-gradient(90deg, transparent, var(--gold-bright), transparent);
+}

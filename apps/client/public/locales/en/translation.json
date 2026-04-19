@@ -1,0 +1,55 @@
+{
+  "setup": {
+    "title": "Sho Hatha?",
+    "subtitle": "Who knows more?",
+    "team1Label": "Team 1 Name",
+    "team2Label": "Team 2 Name",
+    "timerLabel": "Timer Duration",
+    "categoriesPerTeamLabel": "Categories Per Team",
+    "startButton": "Start Game",
+    "validation": {
+      "teamNameRequired": "Please enter a name for both teams",
+      "timerRequired": "Please select a timer duration"
+    }
+  },
+  "categories": {
+    "title": "Choose Categories",
+    "team1Picks": "{{team}} picks 3 categories",
+    "team2Picks": "{{team}} picks 3 categories",
+    "startButton": "Let's Play!",
+    "loading": "Loading categories...",
+    "generating": "Generating your game...",
+    "error": "Could not load categories. Please try again.",
+    "networkError": "Can't reach the server. Is it running?",
+    "serverError": "Something went wrong. Please try again.",
+    "insufficientQuestions": "Not enough questions for these categories.",
+    "empty": "No categories are available right now.",
+    "retry": "Retry",
+    "cancel": "Cancel"
+  },
+  "game": {
+    "turn": "{{team}}'s Turn",
+    "question": "Question {{current}} of {{total}}",
+    "aids": {
+      "fiftyFifty": "50/50",
+      "skip": "Skip",
+      "freeze": "Freeze"
+    },
+    "feedback": {
+      "correct": "Correct! +{{points}} pts",
+      "wrong": "Wrong!",
+      "timeUp": "Time's Up!",
+      "correctAnswer": "Correct answer: {{answer}}"
+    },
+    "next": "Next Question",
+    "finish": "Finish",
+    "noOne": "No one",
+    "frozen": "FROZEN"
+  },
+  "results": {
+    "winner": "{{team}} Wins!",
+    "tie": "It's a Tie!",
+    "finalScore": "Final Score",
+    "playAgain": "Play Again"
+  }
+}

@@ -1,0 +1,5177 @@
+[
+  {
+    "category_slug": "history",
+    "difficulty": "easy",
+    "points": 10,
+    "question_en": "(HISTORY-01) Which labeled fact belongs to History?",
+    "question_ar": "(HISTORY-01) أي حقيقة مُسماة تنتمي إلى تاريخ؟",
+    "options_en": [
+      "History Fact 15",
+      "History Fact 1",
+      "History Fact 2",
+      "History Fact 3"
+    ],
+    "options_ar": [
+      "History حقيقة 15",
+      "History حقيقة 1",
+      "History حقيقة 2",
+      "History حقيقة 3"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching History fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة تاريخ.",
+    "is_active": true
+  },
+  {
+    "category_slug": "history",
+    "difficulty": "easy",
+    "points": 10,
+    "question_en": "(HISTORY-02) Which labeled fact belongs to History?",
+    "question_ar": "(HISTORY-02) أي حقيقة مُسماة تنتمي إلى تاريخ؟",
+    "options_en": [
+      "History Fact 1",
+      "History Fact 2",
+      "History Fact 3",
+      "History Fact 4"
+    ],
+    "options_ar": [
+      "History حقيقة 1",
+      "History حقيقة 2",
+      "History حقيقة 3",
+      "History حقيقة 4"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching History fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة تاريخ.",
+    "is_active": true
+  },
+  {
+    "category_slug": "history",
+    "difficulty": "easy",
+    "points": 10,
+    "question_en": "(HISTORY-03) Which labeled fact belongs to History?",
+    "question_ar": "(HISTORY-03) أي حقيقة مُسماة تنتمي إلى تاريخ؟",
+    "options_en": [
+      "History Fact 2",
+      "History Fact 3",
+      "History Fact 4",
+      "History Fact 5"
+    ],
+    "options_ar": [
+      "History حقيقة 2",
+      "History حقيقة 3",
+      "History حقيقة 4",
+      "History حقيقة 5"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching History fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة تاريخ.",
+    "is_active": true
+  },
+  {
+    "category_slug": "history",
+    "difficulty": "easy",
+    "points": 10,
+    "question_en": "(HISTORY-04) Which labeled fact belongs to History?",
+    "question_ar": "(HISTORY-04) أي حقيقة مُسماة تنتمي إلى تاريخ؟",
+    "options_en": [
+      "History Fact 3",
+      "History Fact 4",
+      "History Fact 5",
+      "History Fact 6"
+    ],
+    "options_ar": [
+      "History حقيقة 3",
+      "History حقيقة 4",
+      "History حقيقة 5",
+      "History حقيقة 6"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching History fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة تاريخ.",
+    "is_active": true
+  },
+  {
+    "category_slug": "history",
+    "difficulty": "easy",
+    "points": 10,
+    "question_en": "(HISTORY-05) Which labeled fact belongs to History?",
+    "question_ar": "(HISTORY-05) أي حقيقة مُسماة تنتمي إلى تاريخ؟",
+    "options_en": [
+      "History Fact 4",
+      "History Fact 5",
+      "History Fact 6",
+      "History Fact 7"
+    ],
+    "options_ar": [
+      "History حقيقة 4",
+      "History حقيقة 5",
+      "History حقيقة 6",
+      "History حقيقة 7"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching History fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة تاريخ.",
+    "is_active": true
+  },
+  {
+    "category_slug": "history",
+    "difficulty": "easy",
+    "points": 10,
+    "question_en": "(HISTORY-06) Which labeled fact belongs to History?",
+    "question_ar": "(HISTORY-06) أي حقيقة مُسماة تنتمي إلى تاريخ؟",
+    "options_en": [
+      "History Fact 5",
+      "History Fact 6",
+      "History Fact 7",
+      "History Fact 8"
+    ],
+    "options_ar": [
+      "History حقيقة 5",
+      "History حقيقة 6",
+      "History حقيقة 7",
+      "History حقيقة 8"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching History fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة تاريخ.",
+    "is_active": true
+  },
+  {
+    "category_slug": "history",
+    "difficulty": "medium",
+    "points": 20,
+    "question_en": "(HISTORY-07) Which labeled fact belongs to History?",
+    "question_ar": "(HISTORY-07) أي حقيقة مُسماة تنتمي إلى تاريخ؟",
+    "options_en": [
+      "History Fact 6",
+      "History Fact 7",
+      "History Fact 8",
+      "History Fact 9"
+    ],
+    "options_ar": [
+      "History حقيقة 6",
+      "History حقيقة 7",
+      "History حقيقة 8",
+      "History حقيقة 9"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching History fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة تاريخ.",
+    "is_active": true
+  },
+  {
+    "category_slug": "history",
+    "difficulty": "medium",
+    "points": 20,
+    "question_en": "(HISTORY-08) Which labeled fact belongs to History?",
+    "question_ar": "(HISTORY-08) أي حقيقة مُسماة تنتمي إلى تاريخ؟",
+    "options_en": [
+      "History Fact 7",
+      "History Fact 8",
+      "History Fact 9",
+      "History Fact 10"
+    ],
+    "options_ar": [
+      "History حقيقة 7",
+      "History حقيقة 8",
+      "History حقيقة 9",
+      "History حقيقة 10"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching History fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة تاريخ.",
+    "is_active": true
+  },
+  {
+    "category_slug": "history",
+    "difficulty": "medium",
+    "points": 20,
+    "question_en": "(HISTORY-09) Which labeled fact belongs to History?",
+    "question_ar": "(HISTORY-09) أي حقيقة مُسماة تنتمي إلى تاريخ؟",
+    "options_en": [
+      "History Fact 8",
+      "History Fact 9",
+      "History Fact 10",
+      "History Fact 11"
+    ],
+    "options_ar": [
+      "History حقيقة 8",
+      "History حقيقة 9",
+      "History حقيقة 10",
+      "History حقيقة 11"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching History fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة تاريخ.",
+    "is_active": true
+  },
+  {
+    "category_slug": "history",
+    "difficulty": "medium",
+    "points": 20,
+    "question_en": "(HISTORY-10) Which labeled fact belongs to History?",
+    "question_ar": "(HISTORY-10) أي حقيقة مُسماة تنتمي إلى تاريخ؟",
+    "options_en": [
+      "History Fact 9",
+      "History Fact 10",
+      "History Fact 11",
+      "History Fact 12"
+    ],
+    "options_ar": [
+      "History حقيقة 9",
+      "History حقيقة 10",
+      "History حقيقة 11",
+      "History حقيقة 12"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching History fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة تاريخ.",
+    "is_active": true
+  },
+  {
+    "category_slug": "history",
+    "difficulty": "medium",
+    "points": 20,
+    "question_en": "(HISTORY-11) Which labeled fact belongs to History?",
+    "question_ar": "(HISTORY-11) أي حقيقة مُسماة تنتمي إلى تاريخ؟",
+    "options_en": [
+      "History Fact 10",
+      "History Fact 11",
+      "History Fact 12",
+      "History Fact 13"
+    ],
+    "options_ar": [
+      "History حقيقة 10",
+      "History حقيقة 11",
+      "History حقيقة 12",
+      "History حقيقة 13"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching History fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة تاريخ.",
+    "is_active": true
+  },
+  {
+    "category_slug": "history",
+    "difficulty": "medium",
+    "points": 20,
+    "question_en": "(HISTORY-12) Which labeled fact belongs to History?",
+    "question_ar": "(HISTORY-12) أي حقيقة مُسماة تنتمي إلى تاريخ؟",
+    "options_en": [
+      "History Fact 11",
+      "History Fact 12",
+      "History Fact 13",
+      "History Fact 14"
+    ],
+    "options_ar": [
+      "History حقيقة 11",
+      "History حقيقة 12",
+      "History حقيقة 13",
+      "History حقيقة 14"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching History fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة تاريخ.",
+    "is_active": true
+  },
+  {
+    "category_slug": "history",
+    "difficulty": "hard",
+    "points": 30,
+    "question_en": "(HISTORY-13) Which labeled fact belongs to History?",
+    "question_ar": "(HISTORY-13) أي حقيقة مُسماة تنتمي إلى تاريخ؟",
+    "options_en": [
+      "History Fact 12",
+      "History Fact 13",
+      "History Fact 14",
+      "History Fact 15"
+    ],
+    "options_ar": [
+      "History حقيقة 12",
+      "History حقيقة 13",
+      "History حقيقة 14",
+      "History حقيقة 15"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching History fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة تاريخ.",
+    "is_active": true
+  },
+  {
+    "category_slug": "history",
+    "difficulty": "hard",
+    "points": 30,
+    "question_en": "(HISTORY-14) Which labeled fact belongs to History?",
+    "question_ar": "(HISTORY-14) أي حقيقة مُسماة تنتمي إلى تاريخ؟",
+    "options_en": [
+      "History Fact 13",
+      "History Fact 14",
+      "History Fact 15",
+      "History Fact 1"
+    ],
+    "options_ar": [
+      "History حقيقة 13",
+      "History حقيقة 14",
+      "History حقيقة 15",
+      "History حقيقة 1"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching History fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة تاريخ.",
+    "is_active": true
+  },
+  {
+    "category_slug": "history",
+    "difficulty": "hard",
+    "points": 30,
+    "question_en": "(HISTORY-15) Which labeled fact belongs to History?",
+    "question_ar": "(HISTORY-15) أي حقيقة مُسماة تنتمي إلى تاريخ؟",
+    "options_en": [
+      "History Fact 14",
+      "History Fact 15",
+      "History Fact 1",
+      "History Fact 2"
+    ],
+    "options_ar": [
+      "History حقيقة 14",
+      "History حقيقة 15",
+      "History حقيقة 1",
+      "History حقيقة 2"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching History fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة تاريخ.",
+    "is_active": true
+  },
+  {
+    "category_slug": "science",
+    "difficulty": "easy",
+    "points": 10,
+    "question_en": "(SCIENCE-01) Which labeled fact belongs to Science?",
+    "question_ar": "(SCIENCE-01) أي حقيقة مُسماة تنتمي إلى علوم؟",
+    "options_en": [
+      "Science Fact 15",
+      "Science Fact 1",
+      "Science Fact 2",
+      "Science Fact 3"
+    ],
+    "options_ar": [
+      "Science حقيقة 15",
+      "Science حقيقة 1",
+      "Science حقيقة 2",
+      "Science حقيقة 3"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Science fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة علوم.",
+    "is_active": true
+  },
+  {
+    "category_slug": "science",
+    "difficulty": "easy",
+    "points": 10,
+    "question_en": "(SCIENCE-02) Which labeled fact belongs to Science?",
+    "question_ar": "(SCIENCE-02) أي حقيقة مُسماة تنتمي إلى علوم؟",
+    "options_en": [
+      "Science Fact 1",
+      "Science Fact 2",
+      "Science Fact 3",
+      "Science Fact 4"
+    ],
+    "options_ar": [
+      "Science حقيقة 1",
+      "Science حقيقة 2",
+      "Science حقيقة 3",
+      "Science حقيقة 4"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Science fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة علوم.",
+    "is_active": true
+  },
+  {
+    "category_slug": "science",
+    "difficulty": "easy",
+    "points": 10,
+    "question_en": "(SCIENCE-03) Which labeled fact belongs to Science?",
+    "question_ar": "(SCIENCE-03) أي حقيقة مُسماة تنتمي إلى علوم؟",
+    "options_en": [
+      "Science Fact 2",
+      "Science Fact 3",
+      "Science Fact 4",
+      "Science Fact 5"
+    ],
+    "options_ar": [
+      "Science حقيقة 2",
+      "Science حقيقة 3",
+      "Science حقيقة 4",
+      "Science حقيقة 5"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Science fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة علوم.",
+    "is_active": true
+  },
+  {
+    "category_slug": "science",
+    "difficulty": "easy",
+    "points": 10,
+    "question_en": "(SCIENCE-04) Which labeled fact belongs to Science?",
+    "question_ar": "(SCIENCE-04) أي حقيقة مُسماة تنتمي إلى علوم؟",
+    "options_en": [
+      "Science Fact 3",
+      "Science Fact 4",
+      "Science Fact 5",
+      "Science Fact 6"
+    ],
+    "options_ar": [
+      "Science حقيقة 3",
+      "Science حقيقة 4",
+      "Science حقيقة 5",
+      "Science حقيقة 6"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Science fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة علوم.",
+    "is_active": true
+  },
+  {
+    "category_slug": "science",
+    "difficulty": "easy",
+    "points": 10,
+    "question_en": "(SCIENCE-05) Which labeled fact belongs to Science?",
+    "question_ar": "(SCIENCE-05) أي حقيقة مُسماة تنتمي إلى علوم؟",
+    "options_en": [
+      "Science Fact 4",
+      "Science Fact 5",
+      "Science Fact 6",
+      "Science Fact 7"
+    ],
+    "options_ar": [
+      "Science حقيقة 4",
+      "Science حقيقة 5",
+      "Science حقيقة 6",
+      "Science حقيقة 7"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Science fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة علوم.",
+    "is_active": true
+  },
+  {
+    "category_slug": "science",
+    "difficulty": "easy",
+    "points": 10,
+    "question_en": "(SCIENCE-06) Which labeled fact belongs to Science?",
+    "question_ar": "(SCIENCE-06) أي حقيقة مُسماة تنتمي إلى علوم؟",
+    "options_en": [
+      "Science Fact 5",
+      "Science Fact 6",
+      "Science Fact 7",
+      "Science Fact 8"
+    ],
+    "options_ar": [
+      "Science حقيقة 5",
+      "Science حقيقة 6",
+      "Science حقيقة 7",
+      "Science حقيقة 8"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Science fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة علوم.",
+    "is_active": true
+  },
+  {
+    "category_slug": "science",
+    "difficulty": "medium",
+    "points": 20,
+    "question_en": "(SCIENCE-07) Which labeled fact belongs to Science?",
+    "question_ar": "(SCIENCE-07) أي حقيقة مُسماة تنتمي إلى علوم؟",
+    "options_en": [
+      "Science Fact 6",
+      "Science Fact 7",
+      "Science Fact 8",
+      "Science Fact 9"
+    ],
+    "options_ar": [
+      "Science حقيقة 6",
+      "Science حقيقة 7",
+      "Science حقيقة 8",
+      "Science حقيقة 9"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Science fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة علوم.",
+    "is_active": true
+  },
+  {
+    "category_slug": "science",
+    "difficulty": "medium",
+    "points": 20,
+    "question_en": "(SCIENCE-08) Which labeled fact belongs to Science?",
+    "question_ar": "(SCIENCE-08) أي حقيقة مُسماة تنتمي إلى علوم؟",
+    "options_en": [
+      "Science Fact 7",
+      "Science Fact 8",
+      "Science Fact 9",
+      "Science Fact 10"
+    ],
+    "options_ar": [
+      "Science حقيقة 7",
+      "Science حقيقة 8",
+      "Science حقيقة 9",
+      "Science حقيقة 10"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Science fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة علوم.",
+    "is_active": true
+  },
+  {
+    "category_slug": "science",
+    "difficulty": "medium",
+    "points": 20,
+    "question_en": "(SCIENCE-09) Which labeled fact belongs to Science?",
+    "question_ar": "(SCIENCE-09) أي حقيقة مُسماة تنتمي إلى علوم؟",
+    "options_en": [
+      "Science Fact 8",
+      "Science Fact 9",
+      "Science Fact 10",
+      "Science Fact 11"
+    ],
+    "options_ar": [
+      "Science حقيقة 8",
+      "Science حقيقة 9",
+      "Science حقيقة 10",
+      "Science حقيقة 11"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Science fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة علوم.",
+    "is_active": true
+  },
+  {
+    "category_slug": "science",
+    "difficulty": "medium",
+    "points": 20,
+    "question_en": "(SCIENCE-10) Which labeled fact belongs to Science?",
+    "question_ar": "(SCIENCE-10) أي حقيقة مُسماة تنتمي إلى علوم؟",
+    "options_en": [
+      "Science Fact 9",
+      "Science Fact 10",
+      "Science Fact 11",
+      "Science Fact 12"
+    ],
+    "options_ar": [
+      "Science حقيقة 9",
+      "Science حقيقة 10",
+      "Science حقيقة 11",
+      "Science حقيقة 12"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Science fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة علوم.",
+    "is_active": true
+  },
+  {
+    "category_slug": "science",
+    "difficulty": "medium",
+    "points": 20,
+    "question_en": "(SCIENCE-11) Which labeled fact belongs to Science?",
+    "question_ar": "(SCIENCE-11) أي حقيقة مُسماة تنتمي إلى علوم؟",
+    "options_en": [
+      "Science Fact 10",
+      "Science Fact 11",
+      "Science Fact 12",
+      "Science Fact 13"
+    ],
+    "options_ar": [
+      "Science حقيقة 10",
+      "Science حقيقة 11",
+      "Science حقيقة 12",
+      "Science حقيقة 13"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Science fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة علوم.",
+    "is_active": true
+  },
+  {
+    "category_slug": "science",
+    "difficulty": "medium",
+    "points": 20,
+    "question_en": "(SCIENCE-12) Which labeled fact belongs to Science?",
+    "question_ar": "(SCIENCE-12) أي حقيقة مُسماة تنتمي إلى علوم؟",
+    "options_en": [
+      "Science Fact 11",
+      "Science Fact 12",
+      "Science Fact 13",
+      "Science Fact 14"
+    ],
+    "options_ar": [
+      "Science حقيقة 11",
+      "Science حقيقة 12",
+      "Science حقيقة 13",
+      "Science حقيقة 14"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Science fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة علوم.",
+    "is_active": true
+  },
+  {
+    "category_slug": "science",
+    "difficulty": "hard",
+    "points": 30,
+    "question_en": "(SCIENCE-13) Which labeled fact belongs to Science?",
+    "question_ar": "(SCIENCE-13) أي حقيقة مُسماة تنتمي إلى علوم؟",
+    "options_en": [
+      "Science Fact 12",
+      "Science Fact 13",
+      "Science Fact 14",
+      "Science Fact 15"
+    ],
+    "options_ar": [
+      "Science حقيقة 12",
+      "Science حقيقة 13",
+      "Science حقيقة 14",
+      "Science حقيقة 15"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Science fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة علوم.",
+    "is_active": true
+  },
+  {
+    "category_slug": "science",
+    "difficulty": "hard",
+    "points": 30,
+    "question_en": "(SCIENCE-14) Which labeled fact belongs to Science?",
+    "question_ar": "(SCIENCE-14) أي حقيقة مُسماة تنتمي إلى علوم؟",
+    "options_en": [
+      "Science Fact 13",
+      "Science Fact 14",
+      "Science Fact 15",
+      "Science Fact 1"
+    ],
+    "options_ar": [
+      "Science حقيقة 13",
+      "Science حقيقة 14",
+      "Science حقيقة 15",
+      "Science حقيقة 1"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Science fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة علوم.",
+    "is_active": true
+  },
+  {
+    "category_slug": "science",
+    "difficulty": "hard",
+    "points": 30,
+    "question_en": "(SCIENCE-15) Which labeled fact belongs to Science?",
+    "question_ar": "(SCIENCE-15) أي حقيقة مُسماة تنتمي إلى علوم؟",
+    "options_en": [
+      "Science Fact 14",
+      "Science Fact 15",
+      "Science Fact 1",
+      "Science Fact 2"
+    ],
+    "options_ar": [
+      "Science حقيقة 14",
+      "Science حقيقة 15",
+      "Science حقيقة 1",
+      "Science حقيقة 2"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Science fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة علوم.",
+    "is_active": true
+  },
+  {
+    "category_slug": "sports",
+    "difficulty": "easy",
+    "points": 10,
+    "question_en": "(SPORTS-01) Which labeled fact belongs to Sports?",
+    "question_ar": "(SPORTS-01) أي حقيقة مُسماة تنتمي إلى رياضة؟",
+    "options_en": [
+      "Sports Fact 15",
+      "Sports Fact 1",
+      "Sports Fact 2",
+      "Sports Fact 3"
+    ],
+    "options_ar": [
+      "Sports حقيقة 15",
+      "Sports حقيقة 1",
+      "Sports حقيقة 2",
+      "Sports حقيقة 3"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Sports fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة رياضة.",
+    "is_active": true
+  },
+  {
+    "category_slug": "sports",
+    "difficulty": "easy",
+    "points": 10,
+    "question_en": "(SPORTS-02) Which labeled fact belongs to Sports?",
+    "question_ar": "(SPORTS-02) أي حقيقة مُسماة تنتمي إلى رياضة؟",
+    "options_en": [
+      "Sports Fact 1",
+      "Sports Fact 2",
+      "Sports Fact 3",
+      "Sports Fact 4"
+    ],
+    "options_ar": [
+      "Sports حقيقة 1",
+      "Sports حقيقة 2",
+      "Sports حقيقة 3",
+      "Sports حقيقة 4"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Sports fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة رياضة.",
+    "is_active": true
+  },
+  {
+    "category_slug": "sports",
+    "difficulty": "easy",
+    "points": 10,
+    "question_en": "(SPORTS-03) Which labeled fact belongs to Sports?",
+    "question_ar": "(SPORTS-03) أي حقيقة مُسماة تنتمي إلى رياضة؟",
+    "options_en": [
+      "Sports Fact 2",
+      "Sports Fact 3",
+      "Sports Fact 4",
+      "Sports Fact 5"
+    ],
+    "options_ar": [
+      "Sports حقيقة 2",
+      "Sports حقيقة 3",
+      "Sports حقيقة 4",
+      "Sports حقيقة 5"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Sports fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة رياضة.",
+    "is_active": true
+  },
+  {
+    "category_slug": "sports",
+    "difficulty": "easy",
+    "points": 10,
+    "question_en": "(SPORTS-04) Which labeled fact belongs to Sports?",
+    "question_ar": "(SPORTS-04) أي حقيقة مُسماة تنتمي إلى رياضة؟",
+    "options_en": [
+      "Sports Fact 3",
+      "Sports Fact 4",
+      "Sports Fact 5",
+      "Sports Fact 6"
+    ],
+    "options_ar": [
+      "Sports حقيقة 3",
+      "Sports حقيقة 4",
+      "Sports حقيقة 5",
+      "Sports حقيقة 6"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Sports fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة رياضة.",
+    "is_active": true
+  },
+  {
+    "category_slug": "sports",
+    "difficulty": "easy",
+    "points": 10,
+    "question_en": "(SPORTS-05) Which labeled fact belongs to Sports?",
+    "question_ar": "(SPORTS-05) أي حقيقة مُسماة تنتمي إلى رياضة؟",
+    "options_en": [
+      "Sports Fact 4",
+      "Sports Fact 5",
+      "Sports Fact 6",
+      "Sports Fact 7"
+    ],
+    "options_ar": [
+      "Sports حقيقة 4",
+      "Sports حقيقة 5",
+      "Sports حقيقة 6",
+      "Sports حقيقة 7"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Sports fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة رياضة.",
+    "is_active": true
+  },
+  {
+    "category_slug": "sports",
+    "difficulty": "easy",
+    "points": 10,
+    "question_en": "(SPORTS-06) Which labeled fact belongs to Sports?",
+    "question_ar": "(SPORTS-06) أي حقيقة مُسماة تنتمي إلى رياضة؟",
+    "options_en": [
+      "Sports Fact 5",
+      "Sports Fact 6",
+      "Sports Fact 7",
+      "Sports Fact 8"
+    ],
+    "options_ar": [
+      "Sports حقيقة 5",
+      "Sports حقيقة 6",
+      "Sports حقيقة 7",
+      "Sports حقيقة 8"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Sports fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة رياضة.",
+    "is_active": true
+  },
+  {
+    "category_slug": "sports",
+    "difficulty": "medium",
+    "points": 20,
+    "question_en": "(SPORTS-07) Which labeled fact belongs to Sports?",
+    "question_ar": "(SPORTS-07) أي حقيقة مُسماة تنتمي إلى رياضة؟",
+    "options_en": [
+      "Sports Fact 6",
+      "Sports Fact 7",
+      "Sports Fact 8",
+      "Sports Fact 9"
+    ],
+    "options_ar": [
+      "Sports حقيقة 6",
+      "Sports حقيقة 7",
+      "Sports حقيقة 8",
+      "Sports حقيقة 9"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Sports fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة رياضة.",
+    "is_active": true
+  },
+  {
+    "category_slug": "sports",
+    "difficulty": "medium",
+    "points": 20,
+    "question_en": "(SPORTS-08) Which labeled fact belongs to Sports?",
+    "question_ar": "(SPORTS-08) أي حقيقة مُسماة تنتمي إلى رياضة؟",
+    "options_en": [
+      "Sports Fact 7",
+      "Sports Fact 8",
+      "Sports Fact 9",
+      "Sports Fact 10"
+    ],
+    "options_ar": [
+      "Sports حقيقة 7",
+      "Sports حقيقة 8",
+      "Sports حقيقة 9",
+      "Sports حقيقة 10"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Sports fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة رياضة.",
+    "is_active": true
+  },
+  {
+    "category_slug": "sports",
+    "difficulty": "medium",
+    "points": 20,
+    "question_en": "(SPORTS-09) Which labeled fact belongs to Sports?",
+    "question_ar": "(SPORTS-09) أي حقيقة مُسماة تنتمي إلى رياضة؟",
+    "options_en": [
+      "Sports Fact 8",
+      "Sports Fact 9",
+      "Sports Fact 10",
+      "Sports Fact 11"
+    ],
+    "options_ar": [
+      "Sports حقيقة 8",
+      "Sports حقيقة 9",
+      "Sports حقيقة 10",
+      "Sports حقيقة 11"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Sports fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة رياضة.",
+    "is_active": true
+  },
+  {
+    "category_slug": "sports",
+    "difficulty": "medium",
+    "points": 20,
+    "question_en": "(SPORTS-10) Which labeled fact belongs to Sports?",
+    "question_ar": "(SPORTS-10) أي حقيقة مُسماة تنتمي إلى رياضة؟",
+    "options_en": [
+      "Sports Fact 9",
+      "Sports Fact 10",
+      "Sports Fact 11",
+      "Sports Fact 12"
+    ],
+    "options_ar": [
+      "Sports حقيقة 9",
+      "Sports حقيقة 10",
+      "Sports حقيقة 11",
+      "Sports حقيقة 12"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Sports fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة رياضة.",
+    "is_active": true
+  },
+  {
+    "category_slug": "sports",
+    "difficulty": "medium",
+    "points": 20,
+    "question_en": "(SPORTS-11) Which labeled fact belongs to Sports?",
+    "question_ar": "(SPORTS-11) أي حقيقة مُسماة تنتمي إلى رياضة؟",
+    "options_en": [
+      "Sports Fact 10",
+      "Sports Fact 11",
+      "Sports Fact 12",
+      "Sports Fact 13"
+    ],
+    "options_ar": [
+      "Sports حقيقة 10",
+      "Sports حقيقة 11",
+      "Sports حقيقة 12",
+      "Sports حقيقة 13"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Sports fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة رياضة.",
+    "is_active": true
+  },
+  {
+    "category_slug": "sports",
+    "difficulty": "medium",
+    "points": 20,
+    "question_en": "(SPORTS-12) Which labeled fact belongs to Sports?",
+    "question_ar": "(SPORTS-12) أي حقيقة مُسماة تنتمي إلى رياضة؟",
+    "options_en": [
+      "Sports Fact 11",
+      "Sports Fact 12",
+      "Sports Fact 13",
+      "Sports Fact 14"
+    ],
+    "options_ar": [
+      "Sports حقيقة 11",
+      "Sports حقيقة 12",
+      "Sports حقيقة 13",
+      "Sports حقيقة 14"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Sports fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة رياضة.",
+    "is_active": true
+  },
+  {
+    "category_slug": "sports",
+    "difficulty": "hard",
+    "points": 30,
+    "question_en": "(SPORTS-13) Which labeled fact belongs to Sports?",
+    "question_ar": "(SPORTS-13) أي حقيقة مُسماة تنتمي إلى رياضة؟",
+    "options_en": [
+      "Sports Fact 12",
+      "Sports Fact 13",
+      "Sports Fact 14",
+      "Sports Fact 15"
+    ],
+    "options_ar": [
+      "Sports حقيقة 12",
+      "Sports حقيقة 13",
+      "Sports حقيقة 14",
+      "Sports حقيقة 15"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Sports fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة رياضة.",
+    "is_active": true
+  },
+  {
+    "category_slug": "sports",
+    "difficulty": "hard",
+    "points": 30,
+    "question_en": "(SPORTS-14) Which labeled fact belongs to Sports?",
+    "question_ar": "(SPORTS-14) أي حقيقة مُسماة تنتمي إلى رياضة؟",
+    "options_en": [
+      "Sports Fact 13",
+      "Sports Fact 14",
+      "Sports Fact 15",
+      "Sports Fact 1"
+    ],
+    "options_ar": [
+      "Sports حقيقة 13",
+      "Sports حقيقة 14",
+      "Sports حقيقة 15",
+      "Sports حقيقة 1"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Sports fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة رياضة.",
+    "is_active": true
+  },
+  {
+    "category_slug": "sports",
+    "difficulty": "hard",
+    "points": 30,
+    "question_en": "(SPORTS-15) Which labeled fact belongs to Sports?",
+    "question_ar": "(SPORTS-15) أي حقيقة مُسماة تنتمي إلى رياضة؟",
+    "options_en": [
+      "Sports Fact 14",
+      "Sports Fact 15",
+      "Sports Fact 1",
+      "Sports Fact 2"
+    ],
+    "options_ar": [
+      "Sports حقيقة 14",
+      "Sports حقيقة 15",
+      "Sports حقيقة 1",
+      "Sports حقيقة 2"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Sports fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة رياضة.",
+    "is_active": true
+  },
+  {
+    "category_slug": "geography",
+    "difficulty": "easy",
+    "points": 10,
+    "question_en": "(GEOGRAPHY-01) Which labeled fact belongs to Geography?",
+    "question_ar": "(GEOGRAPHY-01) أي حقيقة مُسماة تنتمي إلى جغرافيا؟",
+    "options_en": [
+      "Geography Fact 15",
+      "Geography Fact 1",
+      "Geography Fact 2",
+      "Geography Fact 3"
+    ],
+    "options_ar": [
+      "Geography حقيقة 15",
+      "Geography حقيقة 1",
+      "Geography حقيقة 2",
+      "Geography حقيقة 3"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Geography fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة جغرافيا.",
+    "is_active": true
+  },
+  {
+    "category_slug": "geography",
+    "difficulty": "easy",
+    "points": 10,
+    "question_en": "(GEOGRAPHY-02) Which labeled fact belongs to Geography?",
+    "question_ar": "(GEOGRAPHY-02) أي حقيقة مُسماة تنتمي إلى جغرافيا؟",
+    "options_en": [
+      "Geography Fact 1",
+      "Geography Fact 2",
+      "Geography Fact 3",
+      "Geography Fact 4"
+    ],
+    "options_ar": [
+      "Geography حقيقة 1",
+      "Geography حقيقة 2",
+      "Geography حقيقة 3",
+      "Geography حقيقة 4"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Geography fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة جغرافيا.",
+    "is_active": true
+  },
+  {
+    "category_slug": "geography",
+    "difficulty": "easy",
+    "points": 10,
+    "question_en": "(GEOGRAPHY-03) Which labeled fact belongs to Geography?",
+    "question_ar": "(GEOGRAPHY-03) أي حقيقة مُسماة تنتمي إلى جغرافيا؟",
+    "options_en": [
+      "Geography Fact 2",
+      "Geography Fact 3",
+      "Geography Fact 4",
+      "Geography Fact 5"
+    ],
+    "options_ar": [
+      "Geography حقيقة 2",
+      "Geography حقيقة 3",
+      "Geography حقيقة 4",
+      "Geography حقيقة 5"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Geography fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة جغرافيا.",
+    "is_active": true
+  },
+  {
+    "category_slug": "geography",
+    "difficulty": "easy",
+    "points": 10,
+    "question_en": "(GEOGRAPHY-04) Which labeled fact belongs to Geography?",
+    "question_ar": "(GEOGRAPHY-04) أي حقيقة مُسماة تنتمي إلى جغرافيا؟",
+    "options_en": [
+      "Geography Fact 3",
+      "Geography Fact 4",
+      "Geography Fact 5",
+      "Geography Fact 6"
+    ],
+    "options_ar": [
+      "Geography حقيقة 3",
+      "Geography حقيقة 4",
+      "Geography حقيقة 5",
+      "Geography حقيقة 6"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Geography fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة جغرافيا.",
+    "is_active": true
+  },
+  {
+    "category_slug": "geography",
+    "difficulty": "easy",
+    "points": 10,
+    "question_en": "(GEOGRAPHY-05) Which labeled fact belongs to Geography?",
+    "question_ar": "(GEOGRAPHY-05) أي حقيقة مُسماة تنتمي إلى جغرافيا؟",
+    "options_en": [
+      "Geography Fact 4",
+      "Geography Fact 5",
+      "Geography Fact 6",
+      "Geography Fact 7"
+    ],
+    "options_ar": [
+      "Geography حقيقة 4",
+      "Geography حقيقة 5",
+      "Geography حقيقة 6",
+      "Geography حقيقة 7"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Geography fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة جغرافيا.",
+    "is_active": true
+  },
+  {
+    "category_slug": "geography",
+    "difficulty": "easy",
+    "points": 10,
+    "question_en": "(GEOGRAPHY-06) Which labeled fact belongs to Geography?",
+    "question_ar": "(GEOGRAPHY-06) أي حقيقة مُسماة تنتمي إلى جغرافيا؟",
+    "options_en": [
+      "Geography Fact 5",
+      "Geography Fact 6",
+      "Geography Fact 7",
+      "Geography Fact 8"
+    ],
+    "options_ar": [
+      "Geography حقيقة 5",
+      "Geography حقيقة 6",
+      "Geography حقيقة 7",
+      "Geography حقيقة 8"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Geography fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة جغرافيا.",
+    "is_active": true
+  },
+  {
+    "category_slug": "geography",
+    "difficulty": "medium",
+    "points": 20,
+    "question_en": "(GEOGRAPHY-07) Which labeled fact belongs to Geography?",
+    "question_ar": "(GEOGRAPHY-07) أي حقيقة مُسماة تنتمي إلى جغرافيا؟",
+    "options_en": [
+      "Geography Fact 6",
+      "Geography Fact 7",
+      "Geography Fact 8",
+      "Geography Fact 9"
+    ],
+    "options_ar": [
+      "Geography حقيقة 6",
+      "Geography حقيقة 7",
+      "Geography حقيقة 8",
+      "Geography حقيقة 9"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Geography fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة جغرافيا.",
+    "is_active": true
+  },
+  {
+    "category_slug": "geography",
+    "difficulty": "medium",
+    "points": 20,
+    "question_en": "(GEOGRAPHY-08) Which labeled fact belongs to Geography?",
+    "question_ar": "(GEOGRAPHY-08) أي حقيقة مُسماة تنتمي إلى جغرافيا؟",
+    "options_en": [
+      "Geography Fact 7",
+      "Geography Fact 8",
+      "Geography Fact 9",
+      "Geography Fact 10"
+    ],
+    "options_ar": [
+      "Geography حقيقة 7",
+      "Geography حقيقة 8",
+      "Geography حقيقة 9",
+      "Geography حقيقة 10"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Geography fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة جغرافيا.",
+    "is_active": true
+  },
+  {
+    "category_slug": "geography",
+    "difficulty": "medium",
+    "points": 20,
+    "question_en": "(GEOGRAPHY-09) Which labeled fact belongs to Geography?",
+    "question_ar": "(GEOGRAPHY-09) أي حقيقة مُسماة تنتمي إلى جغرافيا؟",
+    "options_en": [
+      "Geography Fact 8",
+      "Geography Fact 9",
+      "Geography Fact 10",
+      "Geography Fact 11"
+    ],
+    "options_ar": [
+      "Geography حقيقة 8",
+      "Geography حقيقة 9",
+      "Geography حقيقة 10",
+      "Geography حقيقة 11"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Geography fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة جغرافيا.",
+    "is_active": true
+  },
+  {
+    "category_slug": "geography",
+    "difficulty": "medium",
+    "points": 20,
+    "question_en": "(GEOGRAPHY-10) Which labeled fact belongs to Geography?",
+    "question_ar": "(GEOGRAPHY-10) أي حقيقة مُسماة تنتمي إلى جغرافيا؟",
+    "options_en": [
+      "Geography Fact 9",
+      "Geography Fact 10",
+      "Geography Fact 11",
+      "Geography Fact 12"
+    ],
+    "options_ar": [
+      "Geography حقيقة 9",
+      "Geography حقيقة 10",
+      "Geography حقيقة 11",
+      "Geography حقيقة 12"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Geography fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة جغرافيا.",
+    "is_active": true
+  },
+  {
+    "category_slug": "geography",
+    "difficulty": "medium",
+    "points": 20,
+    "question_en": "(GEOGRAPHY-11) Which labeled fact belongs to Geography?",
+    "question_ar": "(GEOGRAPHY-11) أي حقيقة مُسماة تنتمي إلى جغرافيا؟",
+    "options_en": [
+      "Geography Fact 10",
+      "Geography Fact 11",
+      "Geography Fact 12",
+      "Geography Fact 13"
+    ],
+    "options_ar": [
+      "Geography حقيقة 10",
+      "Geography حقيقة 11",
+      "Geography حقيقة 12",
+      "Geography حقيقة 13"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Geography fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة جغرافيا.",
+    "is_active": true
+  },
+  {
+    "category_slug": "geography",
+    "difficulty": "medium",
+    "points": 20,
+    "question_en": "(GEOGRAPHY-12) Which labeled fact belongs to Geography?",
+    "question_ar": "(GEOGRAPHY-12) أي حقيقة مُسماة تنتمي إلى جغرافيا؟",
+    "options_en": [
+      "Geography Fact 11",
+      "Geography Fact 12",
+      "Geography Fact 13",
+      "Geography Fact 14"
+    ],
+    "options_ar": [
+      "Geography حقيقة 11",
+      "Geography حقيقة 12",
+      "Geography حقيقة 13",
+      "Geography حقيقة 14"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Geography fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة جغرافيا.",
+    "is_active": true
+  },
+  {
+    "category_slug": "geography",
+    "difficulty": "hard",
+    "points": 30,
+    "question_en": "(GEOGRAPHY-13) Which labeled fact belongs to Geography?",
+    "question_ar": "(GEOGRAPHY-13) أي حقيقة مُسماة تنتمي إلى جغرافيا؟",
+    "options_en": [
+      "Geography Fact 12",
+      "Geography Fact 13",
+      "Geography Fact 14",
+      "Geography Fact 15"
+    ],
+    "options_ar": [
+      "Geography حقيقة 12",
+      "Geography حقيقة 13",
+      "Geography حقيقة 14",
+      "Geography حقيقة 15"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Geography fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة جغرافيا.",
+    "is_active": true
+  },
+  {
+    "category_slug": "geography",
+    "difficulty": "hard",
+    "points": 30,
+    "question_en": "(GEOGRAPHY-14) Which labeled fact belongs to Geography?",
+    "question_ar": "(GEOGRAPHY-14) أي حقيقة مُسماة تنتمي إلى جغرافيا؟",
+    "options_en": [
+      "Geography Fact 13",
+      "Geography Fact 14",
+      "Geography Fact 15",
+      "Geography Fact 1"
+    ],
+    "options_ar": [
+      "Geography حقيقة 13",
+      "Geography حقيقة 14",
+      "Geography حقيقة 15",
+      "Geography حقيقة 1"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Geography fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة جغرافيا.",
+    "is_active": true
+  },
+  {
+    "category_slug": "geography",
+    "difficulty": "hard",
+    "points": 30,
+    "question_en": "(GEOGRAPHY-15) Which labeled fact belongs to Geography?",
+    "question_ar": "(GEOGRAPHY-15) أي حقيقة مُسماة تنتمي إلى جغرافيا؟",
+    "options_en": [
+      "Geography Fact 14",
+      "Geography Fact 15",
+      "Geography Fact 1",
+      "Geography Fact 2"
+    ],
+    "options_ar": [
+      "Geography حقيقة 14",
+      "Geography حقيقة 15",
+      "Geography حقيقة 1",
+      "Geography حقيقة 2"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Geography fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة جغرافيا.",
+    "is_active": true
+  },
+  {
+    "category_slug": "movies",
+    "difficulty": "easy",
+    "points": 10,
+    "question_en": "(MOVIES-01) Which labeled fact belongs to Movies?",
+    "question_ar": "(MOVIES-01) أي حقيقة مُسماة تنتمي إلى أفلام؟",
+    "options_en": [
+      "Movies Fact 15",
+      "Movies Fact 1",
+      "Movies Fact 2",
+      "Movies Fact 3"
+    ],
+    "options_ar": [
+      "Movies حقيقة 15",
+      "Movies حقيقة 1",
+      "Movies حقيقة 2",
+      "Movies حقيقة 3"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Movies fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة أفلام.",
+    "is_active": true
+  },
+  {
+    "category_slug": "movies",
+    "difficulty": "easy",
+    "points": 10,
+    "question_en": "(MOVIES-02) Which labeled fact belongs to Movies?",
+    "question_ar": "(MOVIES-02) أي حقيقة مُسماة تنتمي إلى أفلام؟",
+    "options_en": [
+      "Movies Fact 1",
+      "Movies Fact 2",
+      "Movies Fact 3",
+      "Movies Fact 4"
+    ],
+    "options_ar": [
+      "Movies حقيقة 1",
+      "Movies حقيقة 2",
+      "Movies حقيقة 3",
+      "Movies حقيقة 4"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Movies fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة أفلام.",
+    "is_active": true
+  },
+  {
+    "category_slug": "movies",
+    "difficulty": "easy",
+    "points": 10,
+    "question_en": "(MOVIES-03) Which labeled fact belongs to Movies?",
+    "question_ar": "(MOVIES-03) أي حقيقة مُسماة تنتمي إلى أفلام؟",
+    "options_en": [
+      "Movies Fact 2",
+      "Movies Fact 3",
+      "Movies Fact 4",
+      "Movies Fact 5"
+    ],
+    "options_ar": [
+      "Movies حقيقة 2",
+      "Movies حقيقة 3",
+      "Movies حقيقة 4",
+      "Movies حقيقة 5"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Movies fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة أفلام.",
+    "is_active": true
+  },
+  {
+    "category_slug": "movies",
+    "difficulty": "easy",
+    "points": 10,
+    "question_en": "(MOVIES-04) Which labeled fact belongs to Movies?",
+    "question_ar": "(MOVIES-04) أي حقيقة مُسماة تنتمي إلى أفلام؟",
+    "options_en": [
+      "Movies Fact 3",
+      "Movies Fact 4",
+      "Movies Fact 5",
+      "Movies Fact 6"
+    ],
+    "options_ar": [
+      "Movies حقيقة 3",
+      "Movies حقيقة 4",
+      "Movies حقيقة 5",
+      "Movies حقيقة 6"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Movies fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة أفلام.",
+    "is_active": true
+  },
+  {
+    "category_slug": "movies",
+    "difficulty": "easy",
+    "points": 10,
+    "question_en": "(MOVIES-05) Which labeled fact belongs to Movies?",
+    "question_ar": "(MOVIES-05) أي حقيقة مُسماة تنتمي إلى أفلام؟",
+    "options_en": [
+      "Movies Fact 4",
+      "Movies Fact 5",
+      "Movies Fact 6",
+      "Movies Fact 7"
+    ],
+    "options_ar": [
+      "Movies حقيقة 4",
+      "Movies حقيقة 5",
+      "Movies حقيقة 6",
+      "Movies حقيقة 7"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Movies fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة أفلام.",
+    "is_active": true
+  },
+  {
+    "category_slug": "movies",
+    "difficulty": "easy",
+    "points": 10,
+    "question_en": "(MOVIES-06) Which labeled fact belongs to Movies?",
+    "question_ar": "(MOVIES-06) أي حقيقة مُسماة تنتمي إلى أفلام؟",
+    "options_en": [
+      "Movies Fact 5",
+      "Movies Fact 6",
+      "Movies Fact 7",
+      "Movies Fact 8"
+    ],
+    "options_ar": [
+      "Movies حقيقة 5",
+      "Movies حقيقة 6",
+      "Movies حقيقة 7",
+      "Movies حقيقة 8"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Movies fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة أفلام.",
+    "is_active": true
+  },
+  {
+    "category_slug": "movies",
+    "difficulty": "medium",
+    "points": 20,
+    "question_en": "(MOVIES-07) Which labeled fact belongs to Movies?",
+    "question_ar": "(MOVIES-07) أي حقيقة مُسماة تنتمي إلى أفلام؟",
+    "options_en": [
+      "Movies Fact 6",
+      "Movies Fact 7",
+      "Movies Fact 8",
+      "Movies Fact 9"
+    ],
+    "options_ar": [
+      "Movies حقيقة 6",
+      "Movies حقيقة 7",
+      "Movies حقيقة 8",
+      "Movies حقيقة 9"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Movies fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة أفلام.",
+    "is_active": true
+  },
+  {
+    "category_slug": "movies",
+    "difficulty": "medium",
+    "points": 20,
+    "question_en": "(MOVIES-08) Which labeled fact belongs to Movies?",
+    "question_ar": "(MOVIES-08) أي حقيقة مُسماة تنتمي إلى أفلام؟",
+    "options_en": [
+      "Movies Fact 7",
+      "Movies Fact 8",
+      "Movies Fact 9",
+      "Movies Fact 10"
+    ],
+    "options_ar": [
+      "Movies حقيقة 7",
+      "Movies حقيقة 8",
+      "Movies حقيقة 9",
+      "Movies حقيقة 10"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Movies fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة أفلام.",
+    "is_active": true
+  },
+  {
+    "category_slug": "movies",
+    "difficulty": "medium",
+    "points": 20,
+    "question_en": "(MOVIES-09) Which labeled fact belongs to Movies?",
+    "question_ar": "(MOVIES-09) أي حقيقة مُسماة تنتمي إلى أفلام؟",
+    "options_en": [
+      "Movies Fact 8",
+      "Movies Fact 9",
+      "Movies Fact 10",
+      "Movies Fact 11"
+    ],
+    "options_ar": [
+      "Movies حقيقة 8",
+      "Movies حقيقة 9",
+      "Movies حقيقة 10",
+      "Movies حقيقة 11"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Movies fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة أفلام.",
+    "is_active": true
+  },
+  {
+    "category_slug": "movies",
+    "difficulty": "medium",
+    "points": 20,
+    "question_en": "(MOVIES-10) Which labeled fact belongs to Movies?",
+    "question_ar": "(MOVIES-10) أي حقيقة مُسماة تنتمي إلى أفلام؟",
+    "options_en": [
+      "Movies Fact 9",
+      "Movies Fact 10",
+      "Movies Fact 11",
+      "Movies Fact 12"
+    ],
+    "options_ar": [
+      "Movies حقيقة 9",
+      "Movies حقيقة 10",
+      "Movies حقيقة 11",
+      "Movies حقيقة 12"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Movies fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة أفلام.",
+    "is_active": true
+  },
+  {
+    "category_slug": "movies",
+    "difficulty": "medium",
+    "points": 20,
+    "question_en": "(MOVIES-11) Which labeled fact belongs to Movies?",
+    "question_ar": "(MOVIES-11) أي حقيقة مُسماة تنتمي إلى أفلام؟",
+    "options_en": [
+      "Movies Fact 10",
+      "Movies Fact 11",
+      "Movies Fact 12",
+      "Movies Fact 13"
+    ],
+    "options_ar": [
+      "Movies حقيقة 10",
+      "Movies حقيقة 11",
+      "Movies حقيقة 12",
+      "Movies حقيقة 13"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Movies fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة أفلام.",
+    "is_active": true
+  },
+  {
+    "category_slug": "movies",
+    "difficulty": "medium",
+    "points": 20,
+    "question_en": "(MOVIES-12) Which labeled fact belongs to Movies?",
+    "question_ar": "(MOVIES-12) أي حقيقة مُسماة تنتمي إلى أفلام؟",
+    "options_en": [
+      "Movies Fact 11",
+      "Movies Fact 12",
+      "Movies Fact 13",
+      "Movies Fact 14"
+    ],
+    "options_ar": [
+      "Movies حقيقة 11",
+      "Movies حقيقة 12",
+      "Movies حقيقة 13",
+      "Movies حقيقة 14"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Movies fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة أفلام.",
+    "is_active": true
+  },
+  {
+    "category_slug": "movies",
+    "difficulty": "hard",
+    "points": 30,
+    "question_en": "(MOVIES-13) Which labeled fact belongs to Movies?",
+    "question_ar": "(MOVIES-13) أي حقيقة مُسماة تنتمي إلى أفلام؟",
+    "options_en": [
+      "Movies Fact 12",
+      "Movies Fact 13",
+      "Movies Fact 14",
+      "Movies Fact 15"
+    ],
+    "options_ar": [
+      "Movies حقيقة 12",
+      "Movies حقيقة 13",
+      "Movies حقيقة 14",
+      "Movies حقيقة 15"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Movies fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة أفلام.",
+    "is_active": true
+  },
+  {
+    "category_slug": "movies",
+    "difficulty": "hard",
+    "points": 30,
+    "question_en": "(MOVIES-14) Which labeled fact belongs to Movies?",
+    "question_ar": "(MOVIES-14) أي حقيقة مُسماة تنتمي إلى أفلام؟",
+    "options_en": [
+      "Movies Fact 13",
+      "Movies Fact 14",
+      "Movies Fact 15",
+      "Movies Fact 1"
+    ],
+    "options_ar": [
+      "Movies حقيقة 13",
+      "Movies حقيقة 14",
+      "Movies حقيقة 15",
+      "Movies حقيقة 1"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Movies fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة أفلام.",
+    "is_active": true
+  },
+  {
+    "category_slug": "movies",
+    "difficulty": "hard",
+    "points": 30,
+    "question_en": "(MOVIES-15) Which labeled fact belongs to Movies?",
+    "question_ar": "(MOVIES-15) أي حقيقة مُسماة تنتمي إلى أفلام؟",
+    "options_en": [
+      "Movies Fact 14",
+      "Movies Fact 15",
+      "Movies Fact 1",
+      "Movies Fact 2"
+    ],
+    "options_ar": [
+      "Movies حقيقة 14",
+      "Movies حقيقة 15",
+      "Movies حقيقة 1",
+      "Movies حقيقة 2"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Movies fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة أفلام.",
+    "is_active": true
+  },
+  {
+    "category_slug": "music",
+    "difficulty": "easy",
+    "points": 10,
+    "question_en": "(MUSIC-01) Which labeled fact belongs to Music?",
+    "question_ar": "(MUSIC-01) أي حقيقة مُسماة تنتمي إلى موسيقى؟",
+    "options_en": [
+      "Music Fact 15",
+      "Music Fact 1",
+      "Music Fact 2",
+      "Music Fact 3"
+    ],
+    "options_ar": [
+      "Music حقيقة 15",
+      "Music حقيقة 1",
+      "Music حقيقة 2",
+      "Music حقيقة 3"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Music fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة موسيقى.",
+    "is_active": true
+  },
+  {
+    "category_slug": "music",
+    "difficulty": "easy",
+    "points": 10,
+    "question_en": "(MUSIC-02) Which labeled fact belongs to Music?",
+    "question_ar": "(MUSIC-02) أي حقيقة مُسماة تنتمي إلى موسيقى؟",
+    "options_en": [
+      "Music Fact 1",
+      "Music Fact 2",
+      "Music Fact 3",
+      "Music Fact 4"
+    ],
+    "options_ar": [
+      "Music حقيقة 1",
+      "Music حقيقة 2",
+      "Music حقيقة 3",
+      "Music حقيقة 4"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Music fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة موسيقى.",
+    "is_active": true
+  },
+  {
+    "category_slug": "music",
+    "difficulty": "easy",
+    "points": 10,
+    "question_en": "(MUSIC-03) Which labeled fact belongs to Music?",
+    "question_ar": "(MUSIC-03) أي حقيقة مُسماة تنتمي إلى موسيقى؟",
+    "options_en": [
+      "Music Fact 2",
+      "Music Fact 3",
+      "Music Fact 4",
+      "Music Fact 5"
+    ],
+    "options_ar": [
+      "Music حقيقة 2",
+      "Music حقيقة 3",
+      "Music حقيقة 4",
+      "Music حقيقة 5"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Music fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة موسيقى.",
+    "is_active": true
+  },
+  {
+    "category_slug": "music",
+    "difficulty": "easy",
+    "points": 10,
+    "question_en": "(MUSIC-04) Which labeled fact belongs to Music?",
+    "question_ar": "(MUSIC-04) أي حقيقة مُسماة تنتمي إلى موسيقى؟",
+    "options_en": [
+      "Music Fact 3",
+      "Music Fact 4",
+      "Music Fact 5",
+      "Music Fact 6"
+    ],
+    "options_ar": [
+      "Music حقيقة 3",
+      "Music حقيقة 4",
+      "Music حقيقة 5",
+      "Music حقيقة 6"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Music fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة موسيقى.",
+    "is_active": true
+  },
+  {
+    "category_slug": "music",
+    "difficulty": "easy",
+    "points": 10,
+    "question_en": "(MUSIC-05) Which labeled fact belongs to Music?",
+    "question_ar": "(MUSIC-05) أي حقيقة مُسماة تنتمي إلى موسيقى؟",
+    "options_en": [
+      "Music Fact 4",
+      "Music Fact 5",
+      "Music Fact 6",
+      "Music Fact 7"
+    ],
+    "options_ar": [
+      "Music حقيقة 4",
+      "Music حقيقة 5",
+      "Music حقيقة 6",
+      "Music حقيقة 7"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Music fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة موسيقى.",
+    "is_active": true
+  },
+  {
+    "category_slug": "music",
+    "difficulty": "easy",
+    "points": 10,
+    "question_en": "(MUSIC-06) Which labeled fact belongs to Music?",
+    "question_ar": "(MUSIC-06) أي حقيقة مُسماة تنتمي إلى موسيقى؟",
+    "options_en": [
+      "Music Fact 5",
+      "Music Fact 6",
+      "Music Fact 7",
+      "Music Fact 8"
+    ],
+    "options_ar": [
+      "Music حقيقة 5",
+      "Music حقيقة 6",
+      "Music حقيقة 7",
+      "Music حقيقة 8"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Music fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة موسيقى.",
+    "is_active": true
+  },
+  {
+    "category_slug": "music",
+    "difficulty": "medium",
+    "points": 20,
+    "question_en": "(MUSIC-07) Which labeled fact belongs to Music?",
+    "question_ar": "(MUSIC-07) أي حقيقة مُسماة تنتمي إلى موسيقى؟",
+    "options_en": [
+      "Music Fact 6",
+      "Music Fact 7",
+      "Music Fact 8",
+      "Music Fact 9"
+    ],
+    "options_ar": [
+      "Music حقيقة 6",
+      "Music حقيقة 7",
+      "Music حقيقة 8",
+      "Music حقيقة 9"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Music fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة موسيقى.",
+    "is_active": true
+  },
+  {
+    "category_slug": "music",
+    "difficulty": "medium",
+    "points": 20,
+    "question_en": "(MUSIC-08) Which labeled fact belongs to Music?",
+    "question_ar": "(MUSIC-08) أي حقيقة مُسماة تنتمي إلى موسيقى؟",
+    "options_en": [
+      "Music Fact 7",
+      "Music Fact 8",
+      "Music Fact 9",
+      "Music Fact 10"
+    ],
+    "options_ar": [
+      "Music حقيقة 7",
+      "Music حقيقة 8",
+      "Music حقيقة 9",
+      "Music حقيقة 10"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Music fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة موسيقى.",
+    "is_active": true
+  },
+  {
+    "category_slug": "music",
+    "difficulty": "medium",
+    "points": 20,
+    "question_en": "(MUSIC-09) Which labeled fact belongs to Music?",
+    "question_ar": "(MUSIC-09) أي حقيقة مُسماة تنتمي إلى موسيقى؟",
+    "options_en": [
+      "Music Fact 8",
+      "Music Fact 9",
+      "Music Fact 10",
+      "Music Fact 11"
+    ],
+    "options_ar": [
+      "Music حقيقة 8",
+      "Music حقيقة 9",
+      "Music حقيقة 10",
+      "Music حقيقة 11"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Music fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة موسيقى.",
+    "is_active": true
+  },
+  {
+    "category_slug": "music",
+    "difficulty": "medium",
+    "points": 20,
+    "question_en": "(MUSIC-10) Which labeled fact belongs to Music?",
+    "question_ar": "(MUSIC-10) أي حقيقة مُسماة تنتمي إلى موسيقى؟",
+    "options_en": [
+      "Music Fact 9",
+      "Music Fact 10",
+      "Music Fact 11",
+      "Music Fact 12"
+    ],
+    "options_ar": [
+      "Music حقيقة 9",
+      "Music حقيقة 10",
+      "Music حقيقة 11",
+      "Music حقيقة 12"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Music fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة موسيقى.",
+    "is_active": true
+  },
+  {
+    "category_slug": "music",
+    "difficulty": "medium",
+    "points": 20,
+    "question_en": "(MUSIC-11) Which labeled fact belongs to Music?",
+    "question_ar": "(MUSIC-11) أي حقيقة مُسماة تنتمي إلى موسيقى؟",
+    "options_en": [
+      "Music Fact 10",
+      "Music Fact 11",
+      "Music Fact 12",
+      "Music Fact 13"
+    ],
+    "options_ar": [
+      "Music حقيقة 10",
+      "Music حقيقة 11",
+      "Music حقيقة 12",
+      "Music حقيقة 13"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Music fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة موسيقى.",
+    "is_active": true
+  },
+  {
+    "category_slug": "music",
+    "difficulty": "medium",
+    "points": 20,
+    "question_en": "(MUSIC-12) Which labeled fact belongs to Music?",
+    "question_ar": "(MUSIC-12) أي حقيقة مُسماة تنتمي إلى موسيقى؟",
+    "options_en": [
+      "Music Fact 11",
+      "Music Fact 12",
+      "Music Fact 13",
+      "Music Fact 14"
+    ],
+    "options_ar": [
+      "Music حقيقة 11",
+      "Music حقيقة 12",
+      "Music حقيقة 13",
+      "Music حقيقة 14"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Music fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة موسيقى.",
+    "is_active": true
+  },
+  {
+    "category_slug": "music",
+    "difficulty": "hard",
+    "points": 30,
+    "question_en": "(MUSIC-13) Which labeled fact belongs to Music?",
+    "question_ar": "(MUSIC-13) أي حقيقة مُسماة تنتمي إلى موسيقى؟",
+    "options_en": [
+      "Music Fact 12",
+      "Music Fact 13",
+      "Music Fact 14",
+      "Music Fact 15"
+    ],
+    "options_ar": [
+      "Music حقيقة 12",
+      "Music حقيقة 13",
+      "Music حقيقة 14",
+      "Music حقيقة 15"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Music fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة موسيقى.",
+    "is_active": true
+  },
+  {
+    "category_slug": "music",
+    "difficulty": "hard",
+    "points": 30,
+    "question_en": "(MUSIC-14) Which labeled fact belongs to Music?",
+    "question_ar": "(MUSIC-14) أي حقيقة مُسماة تنتمي إلى موسيقى؟",
+    "options_en": [
+      "Music Fact 13",
+      "Music Fact 14",
+      "Music Fact 15",
+      "Music Fact 1"
+    ],
+    "options_ar": [
+      "Music حقيقة 13",
+      "Music حقيقة 14",
+      "Music حقيقة 15",
+      "Music حقيقة 1"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Music fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة موسيقى.",
+    "is_active": true
+  },
+  {
+    "category_slug": "music",
+    "difficulty": "hard",
+    "points": 30,
+    "question_en": "(MUSIC-15) Which labeled fact belongs to Music?",
+    "question_ar": "(MUSIC-15) أي حقيقة مُسماة تنتمي إلى موسيقى؟",
+    "options_en": [
+      "Music Fact 14",
+      "Music Fact 15",
+      "Music Fact 1",
+      "Music Fact 2"
+    ],
+    "options_ar": [
+      "Music حقيقة 14",
+      "Music حقيقة 15",
+      "Music حقيقة 1",
+      "Music حقيقة 2"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Music fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة موسيقى.",
+    "is_active": true
+  },
+  {
+    "category_slug": "food",
+    "difficulty": "easy",
+    "points": 10,
+    "question_en": "(FOOD-01) Which labeled fact belongs to Food?",
+    "question_ar": "(FOOD-01) أي حقيقة مُسماة تنتمي إلى طعام؟",
+    "options_en": [
+      "Food Fact 15",
+      "Food Fact 1",
+      "Food Fact 2",
+      "Food Fact 3"
+    ],
+    "options_ar": [
+      "Food حقيقة 15",
+      "Food حقيقة 1",
+      "Food حقيقة 2",
+      "Food حقيقة 3"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Food fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة طعام.",
+    "is_active": true
+  },
+  {
+    "category_slug": "food",
+    "difficulty": "easy",
+    "points": 10,
+    "question_en": "(FOOD-02) Which labeled fact belongs to Food?",
+    "question_ar": "(FOOD-02) أي حقيقة مُسماة تنتمي إلى طعام؟",
+    "options_en": [
+      "Food Fact 1",
+      "Food Fact 2",
+      "Food Fact 3",
+      "Food Fact 4"
+    ],
+    "options_ar": [
+      "Food حقيقة 1",
+      "Food حقيقة 2",
+      "Food حقيقة 3",
+      "Food حقيقة 4"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Food fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة طعام.",
+    "is_active": true
+  },
+  {
+    "category_slug": "food",
+    "difficulty": "easy",
+    "points": 10,
+    "question_en": "(FOOD-03) Which labeled fact belongs to Food?",
+    "question_ar": "(FOOD-03) أي حقيقة مُسماة تنتمي إلى طعام؟",
+    "options_en": [
+      "Food Fact 2",
+      "Food Fact 3",
+      "Food Fact 4",
+      "Food Fact 5"
+    ],
+    "options_ar": [
+      "Food حقيقة 2",
+      "Food حقيقة 3",
+      "Food حقيقة 4",
+      "Food حقيقة 5"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Food fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة طعام.",
+    "is_active": true
+  },
+  {
+    "category_slug": "food",
+    "difficulty": "easy",
+    "points": 10,
+    "question_en": "(FOOD-04) Which labeled fact belongs to Food?",
+    "question_ar": "(FOOD-04) أي حقيقة مُسماة تنتمي إلى طعام؟",
+    "options_en": [
+      "Food Fact 3",
+      "Food Fact 4",
+      "Food Fact 5",
+      "Food Fact 6"
+    ],
+    "options_ar": [
+      "Food حقيقة 3",
+      "Food حقيقة 4",
+      "Food حقيقة 5",
+      "Food حقيقة 6"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Food fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة طعام.",
+    "is_active": true
+  },
+  {
+    "category_slug": "food",
+    "difficulty": "easy",
+    "points": 10,
+    "question_en": "(FOOD-05) Which labeled fact belongs to Food?",
+    "question_ar": "(FOOD-05) أي حقيقة مُسماة تنتمي إلى طعام؟",
+    "options_en": [
+      "Food Fact 4",
+      "Food Fact 5",
+      "Food Fact 6",
+      "Food Fact 7"
+    ],
+    "options_ar": [
+      "Food حقيقة 4",
+      "Food حقيقة 5",
+      "Food حقيقة 6",
+      "Food حقيقة 7"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Food fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة طعام.",
+    "is_active": true
+  },
+  {
+    "category_slug": "food",
+    "difficulty": "easy",
+    "points": 10,
+    "question_en": "(FOOD-06) Which labeled fact belongs to Food?",
+    "question_ar": "(FOOD-06) أي حقيقة مُسماة تنتمي إلى طعام؟",
+    "options_en": [
+      "Food Fact 5",
+      "Food Fact 6",
+      "Food Fact 7",
+      "Food Fact 8"
+    ],
+    "options_ar": [
+      "Food حقيقة 5",
+      "Food حقيقة 6",
+      "Food حقيقة 7",
+      "Food حقيقة 8"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Food fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة طعام.",
+    "is_active": true
+  },
+  {
+    "category_slug": "food",
+    "difficulty": "medium",
+    "points": 20,
+    "question_en": "(FOOD-07) Which labeled fact belongs to Food?",
+    "question_ar": "(FOOD-07) أي حقيقة مُسماة تنتمي إلى طعام؟",
+    "options_en": [
+      "Food Fact 6",
+      "Food Fact 7",
+      "Food Fact 8",
+      "Food Fact 9"
+    ],
+    "options_ar": [
+      "Food حقيقة 6",
+      "Food حقيقة 7",
+      "Food حقيقة 8",
+      "Food حقيقة 9"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Food fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة طعام.",
+    "is_active": true
+  },
+  {
+    "category_slug": "food",
+    "difficulty": "medium",
+    "points": 20,
+    "question_en": "(FOOD-08) Which labeled fact belongs to Food?",
+    "question_ar": "(FOOD-08) أي حقيقة مُسماة تنتمي إلى طعام؟",
+    "options_en": [
+      "Food Fact 7",
+      "Food Fact 8",
+      "Food Fact 9",
+      "Food Fact 10"
+    ],
+    "options_ar": [
+      "Food حقيقة 7",
+      "Food حقيقة 8",
+      "Food حقيقة 9",
+      "Food حقيقة 10"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Food fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة طعام.",
+    "is_active": true
+  },
+  {
+    "category_slug": "food",
+    "difficulty": "medium",
+    "points": 20,
+    "question_en": "(FOOD-09) Which labeled fact belongs to Food?",
+    "question_ar": "(FOOD-09) أي حقيقة مُسماة تنتمي إلى طعام؟",
+    "options_en": [
+      "Food Fact 8",
+      "Food Fact 9",
+      "Food Fact 10",
+      "Food Fact 11"
+    ],
+    "options_ar": [
+      "Food حقيقة 8",
+      "Food حقيقة 9",
+      "Food حقيقة 10",
+      "Food حقيقة 11"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Food fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة طعام.",
+    "is_active": true
+  },
+  {
+    "category_slug": "food",
+    "difficulty": "medium",
+    "points": 20,
+    "question_en": "(FOOD-10) Which labeled fact belongs to Food?",
+    "question_ar": "(FOOD-10) أي حقيقة مُسماة تنتمي إلى طعام؟",
+    "options_en": [
+      "Food Fact 9",
+      "Food Fact 10",
+      "Food Fact 11",
+      "Food Fact 12"
+    ],
+    "options_ar": [
+      "Food حقيقة 9",
+      "Food حقيقة 10",
+      "Food حقيقة 11",
+      "Food حقيقة 12"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Food fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة طعام.",
+    "is_active": true
+  },
+  {
+    "category_slug": "food",
+    "difficulty": "medium",
+    "points": 20,
+    "question_en": "(FOOD-11) Which labeled fact belongs to Food?",
+    "question_ar": "(FOOD-11) أي حقيقة مُسماة تنتمي إلى طعام؟",
+    "options_en": [
+      "Food Fact 10",
+      "Food Fact 11",
+      "Food Fact 12",
+      "Food Fact 13"
+    ],
+    "options_ar": [
+      "Food حقيقة 10",
+      "Food حقيقة 11",
+      "Food حقيقة 12",
+      "Food حقيقة 13"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Food fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة طعام.",
+    "is_active": true
+  },
+  {
+    "category_slug": "food",
+    "difficulty": "medium",
+    "points": 20,
+    "question_en": "(FOOD-12) Which labeled fact belongs to Food?",
+    "question_ar": "(FOOD-12) أي حقيقة مُسماة تنتمي إلى طعام؟",
+    "options_en": [
+      "Food Fact 11",
+      "Food Fact 12",
+      "Food Fact 13",
+      "Food Fact 14"
+    ],
+    "options_ar": [
+      "Food حقيقة 11",
+      "Food حقيقة 12",
+      "Food حقيقة 13",
+      "Food حقيقة 14"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Food fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة طعام.",
+    "is_active": true
+  },
+  {
+    "category_slug": "food",
+    "difficulty": "hard",
+    "points": 30,
+    "question_en": "(FOOD-13) Which labeled fact belongs to Food?",
+    "question_ar": "(FOOD-13) أي حقيقة مُسماة تنتمي إلى طعام؟",
+    "options_en": [
+      "Food Fact 12",
+      "Food Fact 13",
+      "Food Fact 14",
+      "Food Fact 15"
+    ],
+    "options_ar": [
+      "Food حقيقة 12",
+      "Food حقيقة 13",
+      "Food حقيقة 14",
+      "Food حقيقة 15"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Food fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة طعام.",
+    "is_active": true
+  },
+  {
+    "category_slug": "food",
+    "difficulty": "hard",
+    "points": 30,
+    "question_en": "(FOOD-14) Which labeled fact belongs to Food?",
+    "question_ar": "(FOOD-14) أي حقيقة مُسماة تنتمي إلى طعام؟",
+    "options_en": [
+      "Food Fact 13",
+      "Food Fact 14",
+      "Food Fact 15",
+      "Food Fact 1"
+    ],
+    "options_ar": [
+      "Food حقيقة 13",
+      "Food حقيقة 14",
+      "Food حقيقة 15",
+      "Food حقيقة 1"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Food fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة طعام.",
+    "is_active": true
+  },
+  {
+    "category_slug": "food",
+    "difficulty": "hard",
+    "points": 30,
+    "question_en": "(FOOD-15) Which labeled fact belongs to Food?",
+    "question_ar": "(FOOD-15) أي حقيقة مُسماة تنتمي إلى طعام؟",
+    "options_en": [
+      "Food Fact 14",
+      "Food Fact 15",
+      "Food Fact 1",
+      "Food Fact 2"
+    ],
+    "options_ar": [
+      "Food حقيقة 14",
+      "Food حقيقة 15",
+      "Food حقيقة 1",
+      "Food حقيقة 2"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Food fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة طعام.",
+    "is_active": true
+  },
+  {
+    "category_slug": "technology",
+    "difficulty": "easy",
+    "points": 10,
+    "question_en": "(TECHNOLOGY-01) Which labeled fact belongs to Technology?",
+    "question_ar": "(TECHNOLOGY-01) أي حقيقة مُسماة تنتمي إلى تكنولوجيا؟",
+    "options_en": [
+      "Technology Fact 15",
+      "Technology Fact 1",
+      "Technology Fact 2",
+      "Technology Fact 3"
+    ],
+    "options_ar": [
+      "Technology حقيقة 15",
+      "Technology حقيقة 1",
+      "Technology حقيقة 2",
+      "Technology حقيقة 3"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Technology fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة تكنولوجيا.",
+    "is_active": true
+  },
+  {
+    "category_slug": "technology",
+    "difficulty": "easy",
+    "points": 10,
+    "question_en": "(TECHNOLOGY-02) Which labeled fact belongs to Technology?",
+    "question_ar": "(TECHNOLOGY-02) أي حقيقة مُسماة تنتمي إلى تكنولوجيا؟",
+    "options_en": [
+      "Technology Fact 1",
+      "Technology Fact 2",
+      "Technology Fact 3",
+      "Technology Fact 4"
+    ],
+    "options_ar": [
+      "Technology حقيقة 1",
+      "Technology حقيقة 2",
+      "Technology حقيقة 3",
+      "Technology حقيقة 4"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Technology fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة تكنولوجيا.",
+    "is_active": true
+  },
+  {
+    "category_slug": "technology",
+    "difficulty": "easy",
+    "points": 10,
+    "question_en": "(TECHNOLOGY-03) Which labeled fact belongs to Technology?",
+    "question_ar": "(TECHNOLOGY-03) أي حقيقة مُسماة تنتمي إلى تكنولوجيا؟",
+    "options_en": [
+      "Technology Fact 2",
+      "Technology Fact 3",
+      "Technology Fact 4",
+      "Technology Fact 5"
+    ],
+    "options_ar": [
+      "Technology حقيقة 2",
+      "Technology حقيقة 3",
+      "Technology حقيقة 4",
+      "Technology حقيقة 5"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Technology fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة تكنولوجيا.",
+    "is_active": true
+  },
+  {
+    "category_slug": "technology",
+    "difficulty": "easy",
+    "points": 10,
+    "question_en": "(TECHNOLOGY-04) Which labeled fact belongs to Technology?",
+    "question_ar": "(TECHNOLOGY-04) أي حقيقة مُسماة تنتمي إلى تكنولوجيا؟",
+    "options_en": [
+      "Technology Fact 3",
+      "Technology Fact 4",
+      "Technology Fact 5",
+      "Technology Fact 6"
+    ],
+    "options_ar": [
+      "Technology حقيقة 3",
+      "Technology حقيقة 4",
+      "Technology حقيقة 5",
+      "Technology حقيقة 6"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Technology fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة تكنولوجيا.",
+    "is_active": true
+  },
+  {
+    "category_slug": "technology",
+    "difficulty": "easy",
+    "points": 10,
+    "question_en": "(TECHNOLOGY-05) Which labeled fact belongs to Technology?",
+    "question_ar": "(TECHNOLOGY-05) أي حقيقة مُسماة تنتمي إلى تكنولوجيا؟",
+    "options_en": [
+      "Technology Fact 4",
+      "Technology Fact 5",
+      "Technology Fact 6",
+      "Technology Fact 7"
+    ],
+    "options_ar": [
+      "Technology حقيقة 4",
+      "Technology حقيقة 5",
+      "Technology حقيقة 6",
+      "Technology حقيقة 7"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Technology fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة تكنولوجيا.",
+    "is_active": true
+  },
+  {
+    "category_slug": "technology",
+    "difficulty": "easy",
+    "points": 10,
+    "question_en": "(TECHNOLOGY-06) Which labeled fact belongs to Technology?",
+    "question_ar": "(TECHNOLOGY-06) أي حقيقة مُسماة تنتمي إلى تكنولوجيا؟",
+    "options_en": [
+      "Technology Fact 5",
+      "Technology Fact 6",
+      "Technology Fact 7",
+      "Technology Fact 8"
+    ],
+    "options_ar": [
+      "Technology حقيقة 5",
+      "Technology حقيقة 6",
+      "Technology حقيقة 7",
+      "Technology حقيقة 8"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Technology fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة تكنولوجيا.",
+    "is_active": true
+  },
+  {
+    "category_slug": "technology",
+    "difficulty": "medium",
+    "points": 20,
+    "question_en": "(TECHNOLOGY-07) Which labeled fact belongs to Technology?",
+    "question_ar": "(TECHNOLOGY-07) أي حقيقة مُسماة تنتمي إلى تكنولوجيا؟",
+    "options_en": [
+      "Technology Fact 6",
+      "Technology Fact 7",
+      "Technology Fact 8",
+      "Technology Fact 9"
+    ],
+    "options_ar": [
+      "Technology حقيقة 6",
+      "Technology حقيقة 7",
+      "Technology حقيقة 8",
+      "Technology حقيقة 9"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Technology fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة تكنولوجيا.",
+    "is_active": true
+  },
+  {
+    "category_slug": "technology",
+    "difficulty": "medium",
+    "points": 20,
+    "question_en": "(TECHNOLOGY-08) Which labeled fact belongs to Technology?",
+    "question_ar": "(TECHNOLOGY-08) أي حقيقة مُسماة تنتمي إلى تكنولوجيا؟",
+    "options_en": [
+      "Technology Fact 7",
+      "Technology Fact 8",
+      "Technology Fact 9",
+      "Technology Fact 10"
+    ],
+    "options_ar": [
+      "Technology حقيقة 7",
+      "Technology حقيقة 8",
+      "Technology حقيقة 9",
+      "Technology حقيقة 10"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Technology fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة تكنولوجيا.",
+    "is_active": true
+  },
+  {
+    "category_slug": "technology",
+    "difficulty": "medium",
+    "points": 20,
+    "question_en": "(TECHNOLOGY-09) Which labeled fact belongs to Technology?",
+    "question_ar": "(TECHNOLOGY-09) أي حقيقة مُسماة تنتمي إلى تكنولوجيا؟",
+    "options_en": [
+      "Technology Fact 8",
+      "Technology Fact 9",
+      "Technology Fact 10",
+      "Technology Fact 11"
+    ],
+    "options_ar": [
+      "Technology حقيقة 8",
+      "Technology حقيقة 9",
+      "Technology حقيقة 10",
+      "Technology حقيقة 11"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Technology fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة تكنولوجيا.",
+    "is_active": true
+  },
+  {
+    "category_slug": "technology",
+    "difficulty": "medium",
+    "points": 20,
+    "question_en": "(TECHNOLOGY-10) Which labeled fact belongs to Technology?",
+    "question_ar": "(TECHNOLOGY-10) أي حقيقة مُسماة تنتمي إلى تكنولوجيا؟",
+    "options_en": [
+      "Technology Fact 9",
+      "Technology Fact 10",
+      "Technology Fact 11",
+      "Technology Fact 12"
+    ],
+    "options_ar": [
+      "Technology حقيقة 9",
+      "Technology حقيقة 10",
+      "Technology حقيقة 11",
+      "Technology حقيقة 12"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Technology fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة تكنولوجيا.",
+    "is_active": true
+  },
+  {
+    "category_slug": "technology",
+    "difficulty": "medium",
+    "points": 20,
+    "question_en": "(TECHNOLOGY-11) Which labeled fact belongs to Technology?",
+    "question_ar": "(TECHNOLOGY-11) أي حقيقة مُسماة تنتمي إلى تكنولوجيا؟",
+    "options_en": [
+      "Technology Fact 10",
+      "Technology Fact 11",
+      "Technology Fact 12",
+      "Technology Fact 13"
+    ],
+    "options_ar": [
+      "Technology حقيقة 10",
+      "Technology حقيقة 11",
+      "Technology حقيقة 12",
+      "Technology حقيقة 13"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Technology fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة تكنولوجيا.",
+    "is_active": true
+  },
+  {
+    "category_slug": "technology",
+    "difficulty": "medium",
+    "points": 20,
+    "question_en": "(TECHNOLOGY-12) Which labeled fact belongs to Technology?",
+    "question_ar": "(TECHNOLOGY-12) أي حقيقة مُسماة تنتمي إلى تكنولوجيا؟",
+    "options_en": [
+      "Technology Fact 11",
+      "Technology Fact 12",
+      "Technology Fact 13",
+      "Technology Fact 14"
+    ],
+    "options_ar": [
+      "Technology حقيقة 11",
+      "Technology حقيقة 12",
+      "Technology حقيقة 13",
+      "Technology حقيقة 14"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Technology fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة تكنولوجيا.",
+    "is_active": true
+  },
+  {
+    "category_slug": "technology",
+    "difficulty": "hard",
+    "points": 30,
+    "question_en": "(TECHNOLOGY-13) Which labeled fact belongs to Technology?",
+    "question_ar": "(TECHNOLOGY-13) أي حقيقة مُسماة تنتمي إلى تكنولوجيا؟",
+    "options_en": [
+      "Technology Fact 12",
+      "Technology Fact 13",
+      "Technology Fact 14",
+      "Technology Fact 15"
+    ],
+    "options_ar": [
+      "Technology حقيقة 12",
+      "Technology حقيقة 13",
+      "Technology حقيقة 14",
+      "Technology حقيقة 15"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Technology fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة تكنولوجيا.",
+    "is_active": true
+  },
+  {
+    "category_slug": "technology",
+    "difficulty": "hard",
+    "points": 30,
+    "question_en": "(TECHNOLOGY-14) Which labeled fact belongs to Technology?",
+    "question_ar": "(TECHNOLOGY-14) أي حقيقة مُسماة تنتمي إلى تكنولوجيا؟",
+    "options_en": [
+      "Technology Fact 13",
+      "Technology Fact 14",
+      "Technology Fact 15",
+      "Technology Fact 1"
+    ],
+    "options_ar": [
+      "Technology حقيقة 13",
+      "Technology حقيقة 14",
+      "Technology حقيقة 15",
+      "Technology حقيقة 1"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Technology fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة تكنولوجيا.",
+    "is_active": true
+  },
+  {
+    "category_slug": "technology",
+    "difficulty": "hard",
+    "points": 30,
+    "question_en": "(TECHNOLOGY-15) Which labeled fact belongs to Technology?",
+    "question_ar": "(TECHNOLOGY-15) أي حقيقة مُسماة تنتمي إلى تكنولوجيا؟",
+    "options_en": [
+      "Technology Fact 14",
+      "Technology Fact 15",
+      "Technology Fact 1",
+      "Technology Fact 2"
+    ],
+    "options_ar": [
+      "Technology حقيقة 14",
+      "Technology حقيقة 15",
+      "Technology حقيقة 1",
+      "Technology حقيقة 2"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Technology fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة تكنولوجيا.",
+    "is_active": true
+  },
+  {
+    "category_slug": "animals",
+    "difficulty": "easy",
+    "points": 10,
+    "question_en": "(ANIMALS-01) Which labeled fact belongs to Animals?",
+    "question_ar": "(ANIMALS-01) أي حقيقة مُسماة تنتمي إلى حيوانات؟",
+    "options_en": [
+      "Animals Fact 15",
+      "Animals Fact 1",
+      "Animals Fact 2",
+      "Animals Fact 3"
+    ],
+    "options_ar": [
+      "Animals حقيقة 15",
+      "Animals حقيقة 1",
+      "Animals حقيقة 2",
+      "Animals حقيقة 3"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Animals fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة حيوانات.",
+    "is_active": true
+  },
+  {
+    "category_slug": "animals",
+    "difficulty": "easy",
+    "points": 10,
+    "question_en": "(ANIMALS-02) Which labeled fact belongs to Animals?",
+    "question_ar": "(ANIMALS-02) أي حقيقة مُسماة تنتمي إلى حيوانات؟",
+    "options_en": [
+      "Animals Fact 1",
+      "Animals Fact 2",
+      "Animals Fact 3",
+      "Animals Fact 4"
+    ],
+    "options_ar": [
+      "Animals حقيقة 1",
+      "Animals حقيقة 2",
+      "Animals حقيقة 3",
+      "Animals حقيقة 4"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Animals fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة حيوانات.",
+    "is_active": true
+  },
+  {
+    "category_slug": "animals",
+    "difficulty": "easy",
+    "points": 10,
+    "question_en": "(ANIMALS-03) Which labeled fact belongs to Animals?",
+    "question_ar": "(ANIMALS-03) أي حقيقة مُسماة تنتمي إلى حيوانات؟",
+    "options_en": [
+      "Animals Fact 2",
+      "Animals Fact 3",
+      "Animals Fact 4",
+      "Animals Fact 5"
+    ],
+    "options_ar": [
+      "Animals حقيقة 2",
+      "Animals حقيقة 3",
+      "Animals حقيقة 4",
+      "Animals حقيقة 5"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Animals fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة حيوانات.",
+    "is_active": true
+  },
+  {
+    "category_slug": "animals",
+    "difficulty": "easy",
+    "points": 10,
+    "question_en": "(ANIMALS-04) Which labeled fact belongs to Animals?",
+    "question_ar": "(ANIMALS-04) أي حقيقة مُسماة تنتمي إلى حيوانات؟",
+    "options_en": [
+      "Animals Fact 3",
+      "Animals Fact 4",
+      "Animals Fact 5",
+      "Animals Fact 6"
+    ],
+    "options_ar": [
+      "Animals حقيقة 3",
+      "Animals حقيقة 4",
+      "Animals حقيقة 5",
+      "Animals حقيقة 6"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Animals fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة حيوانات.",
+    "is_active": true
+  },
+  {
+    "category_slug": "animals",
+    "difficulty": "easy",
+    "points": 10,
+    "question_en": "(ANIMALS-05) Which labeled fact belongs to Animals?",
+    "question_ar": "(ANIMALS-05) أي حقيقة مُسماة تنتمي إلى حيوانات؟",
+    "options_en": [
+      "Animals Fact 4",
+      "Animals Fact 5",
+      "Animals Fact 6",
+      "Animals Fact 7"
+    ],
+    "options_ar": [
+      "Animals حقيقة 4",
+      "Animals حقيقة 5",
+      "Animals حقيقة 6",
+      "Animals حقيقة 7"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Animals fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة حيوانات.",
+    "is_active": true
+  },
+  {
+    "category_slug": "animals",
+    "difficulty": "easy",
+    "points": 10,
+    "question_en": "(ANIMALS-06) Which labeled fact belongs to Animals?",
+    "question_ar": "(ANIMALS-06) أي حقيقة مُسماة تنتمي إلى حيوانات؟",
+    "options_en": [
+      "Animals Fact 5",
+      "Animals Fact 6",
+      "Animals Fact 7",
+      "Animals Fact 8"
+    ],
+    "options_ar": [
+      "Animals حقيقة 5",
+      "Animals حقيقة 6",
+      "Animals حقيقة 7",
+      "Animals حقيقة 8"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Animals fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة حيوانات.",
+    "is_active": true
+  },
+  {
+    "category_slug": "animals",
+    "difficulty": "medium",
+    "points": 20,
+    "question_en": "(ANIMALS-07) Which labeled fact belongs to Animals?",
+    "question_ar": "(ANIMALS-07) أي حقيقة مُسماة تنتمي إلى حيوانات؟",
+    "options_en": [
+      "Animals Fact 6",
+      "Animals Fact 7",
+      "Animals Fact 8",
+      "Animals Fact 9"
+    ],
+    "options_ar": [
+      "Animals حقيقة 6",
+      "Animals حقيقة 7",
+      "Animals حقيقة 8",
+      "Animals حقيقة 9"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Animals fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة حيوانات.",
+    "is_active": true
+  },
+  {
+    "category_slug": "animals",
+    "difficulty": "medium",
+    "points": 20,
+    "question_en": "(ANIMALS-08) Which labeled fact belongs to Animals?",
+    "question_ar": "(ANIMALS-08) أي حقيقة مُسماة تنتمي إلى حيوانات؟",
+    "options_en": [
+      "Animals Fact 7",
+      "Animals Fact 8",
+      "Animals Fact 9",
+      "Animals Fact 10"
+    ],
+    "options_ar": [
+      "Animals حقيقة 7",
+      "Animals حقيقة 8",
+      "Animals حقيقة 9",
+      "Animals حقيقة 10"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Animals fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة حيوانات.",
+    "is_active": true
+  },
+  {
+    "category_slug": "animals",
+    "difficulty": "medium",
+    "points": 20,
+    "question_en": "(ANIMALS-09) Which labeled fact belongs to Animals?",
+    "question_ar": "(ANIMALS-09) أي حقيقة مُسماة تنتمي إلى حيوانات؟",
+    "options_en": [
+      "Animals Fact 8",
+      "Animals Fact 9",
+      "Animals Fact 10",
+      "Animals Fact 11"
+    ],
+    "options_ar": [
+      "Animals حقيقة 8",
+      "Animals حقيقة 9",
+      "Animals حقيقة 10",
+      "Animals حقيقة 11"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Animals fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة حيوانات.",
+    "is_active": true
+  },
+  {
+    "category_slug": "animals",
+    "difficulty": "medium",
+    "points": 20,
+    "question_en": "(ANIMALS-10) Which labeled fact belongs to Animals?",
+    "question_ar": "(ANIMALS-10) أي حقيقة مُسماة تنتمي إلى حيوانات؟",
+    "options_en": [
+      "Animals Fact 9",
+      "Animals Fact 10",
+      "Animals Fact 11",
+      "Animals Fact 12"
+    ],
+    "options_ar": [
+      "Animals حقيقة 9",
+      "Animals حقيقة 10",
+      "Animals حقيقة 11",
+      "Animals حقيقة 12"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Animals fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة حيوانات.",
+    "is_active": true
+  },
+  {
+    "category_slug": "animals",
+    "difficulty": "medium",
+    "points": 20,
+    "question_en": "(ANIMALS-11) Which labeled fact belongs to Animals?",
+    "question_ar": "(ANIMALS-11) أي حقيقة مُسماة تنتمي إلى حيوانات؟",
+    "options_en": [
+      "Animals Fact 10",
+      "Animals Fact 11",
+      "Animals Fact 12",
+      "Animals Fact 13"
+    ],
+    "options_ar": [
+      "Animals حقيقة 10",
+      "Animals حقيقة 11",
+      "Animals حقيقة 12",
+      "Animals حقيقة 13"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Animals fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة حيوانات.",
+    "is_active": true
+  },
+  {
+    "category_slug": "animals",
+    "difficulty": "medium",
+    "points": 20,
+    "question_en": "(ANIMALS-12) Which labeled fact belongs to Animals?",
+    "question_ar": "(ANIMALS-12) أي حقيقة مُسماة تنتمي إلى حيوانات؟",
+    "options_en": [
+      "Animals Fact 11",
+      "Animals Fact 12",
+      "Animals Fact 13",
+      "Animals Fact 14"
+    ],
+    "options_ar": [
+      "Animals حقيقة 11",
+      "Animals حقيقة 12",
+      "Animals حقيقة 13",
+      "Animals حقيقة 14"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Animals fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة حيوانات.",
+    "is_active": true
+  },
+  {
+    "category_slug": "animals",
+    "difficulty": "hard",
+    "points": 30,
+    "question_en": "(ANIMALS-13) Which labeled fact belongs to Animals?",
+    "question_ar": "(ANIMALS-13) أي حقيقة مُسماة تنتمي إلى حيوانات؟",
+    "options_en": [
+      "Animals Fact 12",
+      "Animals Fact 13",
+      "Animals Fact 14",
+      "Animals Fact 15"
+    ],
+    "options_ar": [
+      "Animals حقيقة 12",
+      "Animals حقيقة 13",
+      "Animals حقيقة 14",
+      "Animals حقيقة 15"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Animals fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة حيوانات.",
+    "is_active": true
+  },
+  {
+    "category_slug": "animals",
+    "difficulty": "hard",
+    "points": 30,
+    "question_en": "(ANIMALS-14) Which labeled fact belongs to Animals?",
+    "question_ar": "(ANIMALS-14) أي حقيقة مُسماة تنتمي إلى حيوانات؟",
+    "options_en": [
+      "Animals Fact 13",
+      "Animals Fact 14",
+      "Animals Fact 15",
+      "Animals Fact 1"
+    ],
+    "options_ar": [
+      "Animals حقيقة 13",
+      "Animals حقيقة 14",
+      "Animals حقيقة 15",
+      "Animals حقيقة 1"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Animals fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة حيوانات.",
+    "is_active": true
+  },
+  {
+    "category_slug": "animals",
+    "difficulty": "hard",
+    "points": 30,
+    "question_en": "(ANIMALS-15) Which labeled fact belongs to Animals?",
+    "question_ar": "(ANIMALS-15) أي حقيقة مُسماة تنتمي إلى حيوانات؟",
+    "options_en": [
+      "Animals Fact 14",
+      "Animals Fact 15",
+      "Animals Fact 1",
+      "Animals Fact 2"
+    ],
+    "options_ar": [
+      "Animals حقيقة 14",
+      "Animals حقيقة 15",
+      "Animals حقيقة 1",
+      "Animals حقيقة 2"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Animals fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة حيوانات.",
+    "is_active": true
+  },
+  {
+    "category_slug": "arts",
+    "difficulty": "easy",
+    "points": 10,
+    "question_en": "(ARTS-01) Which labeled fact belongs to Arts?",
+    "question_ar": "(ARTS-01) أي حقيقة مُسماة تنتمي إلى فنون؟",
+    "options_en": [
+      "Arts Fact 15",
+      "Arts Fact 1",
+      "Arts Fact 2",
+      "Arts Fact 3"
+    ],
+    "options_ar": [
+      "Arts حقيقة 15",
+      "Arts حقيقة 1",
+      "Arts حقيقة 2",
+      "Arts حقيقة 3"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Arts fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة فنون.",
+    "is_active": true
+  },
+  {
+    "category_slug": "arts",
+    "difficulty": "easy",
+    "points": 10,
+    "question_en": "(ARTS-02) Which labeled fact belongs to Arts?",
+    "question_ar": "(ARTS-02) أي حقيقة مُسماة تنتمي إلى فنون؟",
+    "options_en": [
+      "Arts Fact 1",
+      "Arts Fact 2",
+      "Arts Fact 3",
+      "Arts Fact 4"
+    ],
+    "options_ar": [
+      "Arts حقيقة 1",
+      "Arts حقيقة 2",
+      "Arts حقيقة 3",
+      "Arts حقيقة 4"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Arts fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة فنون.",
+    "is_active": true
+  },
+  {
+    "category_slug": "arts",
+    "difficulty": "easy",
+    "points": 10,
+    "question_en": "(ARTS-03) Which labeled fact belongs to Arts?",
+    "question_ar": "(ARTS-03) أي حقيقة مُسماة تنتمي إلى فنون؟",
+    "options_en": [
+      "Arts Fact 2",
+      "Arts Fact 3",
+      "Arts Fact 4",
+      "Arts Fact 5"
+    ],
+    "options_ar": [
+      "Arts حقيقة 2",
+      "Arts حقيقة 3",
+      "Arts حقيقة 4",
+      "Arts حقيقة 5"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Arts fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة فنون.",
+    "is_active": true
+  },
+  {
+    "category_slug": "arts",
+    "difficulty": "easy",
+    "points": 10,
+    "question_en": "(ARTS-04) Which labeled fact belongs to Arts?",
+    "question_ar": "(ARTS-04) أي حقيقة مُسماة تنتمي إلى فنون؟",
+    "options_en": [
+      "Arts Fact 3",
+      "Arts Fact 4",
+      "Arts Fact 5",
+      "Arts Fact 6"
+    ],
+    "options_ar": [
+      "Arts حقيقة 3",
+      "Arts حقيقة 4",
+      "Arts حقيقة 5",
+      "Arts حقيقة 6"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Arts fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة فنون.",
+    "is_active": true
+  },
+  {
+    "category_slug": "arts",
+    "difficulty": "easy",
+    "points": 10,
+    "question_en": "(ARTS-05) Which labeled fact belongs to Arts?",
+    "question_ar": "(ARTS-05) أي حقيقة مُسماة تنتمي إلى فنون؟",
+    "options_en": [
+      "Arts Fact 4",
+      "Arts Fact 5",
+      "Arts Fact 6",
+      "Arts Fact 7"
+    ],
+    "options_ar": [
+      "Arts حقيقة 4",
+      "Arts حقيقة 5",
+      "Arts حقيقة 6",
+      "Arts حقيقة 7"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Arts fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة فنون.",
+    "is_active": true
+  },
+  {
+    "category_slug": "arts",
+    "difficulty": "easy",
+    "points": 10,
+    "question_en": "(ARTS-06) Which labeled fact belongs to Arts?",
+    "question_ar": "(ARTS-06) أي حقيقة مُسماة تنتمي إلى فنون؟",
+    "options_en": [
+      "Arts Fact 5",
+      "Arts Fact 6",
+      "Arts Fact 7",
+      "Arts Fact 8"
+    ],
+    "options_ar": [
+      "Arts حقيقة 5",
+      "Arts حقيقة 6",
+      "Arts حقيقة 7",
+      "Arts حقيقة 8"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Arts fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة فنون.",
+    "is_active": true
+  },
+  {
+    "category_slug": "arts",
+    "difficulty": "medium",
+    "points": 20,
+    "question_en": "(ARTS-07) Which labeled fact belongs to Arts?",
+    "question_ar": "(ARTS-07) أي حقيقة مُسماة تنتمي إلى فنون؟",
+    "options_en": [
+      "Arts Fact 6",
+      "Arts Fact 7",
+      "Arts Fact 8",
+      "Arts Fact 9"
+    ],
+    "options_ar": [
+      "Arts حقيقة 6",
+      "Arts حقيقة 7",
+      "Arts حقيقة 8",
+      "Arts حقيقة 9"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Arts fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة فنون.",
+    "is_active": true
+  },
+  {
+    "category_slug": "arts",
+    "difficulty": "medium",
+    "points": 20,
+    "question_en": "(ARTS-08) Which labeled fact belongs to Arts?",
+    "question_ar": "(ARTS-08) أي حقيقة مُسماة تنتمي إلى فنون؟",
+    "options_en": [
+      "Arts Fact 7",
+      "Arts Fact 8",
+      "Arts Fact 9",
+      "Arts Fact 10"
+    ],
+    "options_ar": [
+      "Arts حقيقة 7",
+      "Arts حقيقة 8",
+      "Arts حقيقة 9",
+      "Arts حقيقة 10"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Arts fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة فنون.",
+    "is_active": true
+  },
+  {
+    "category_slug": "arts",
+    "difficulty": "medium",
+    "points": 20,
+    "question_en": "(ARTS-09) Which labeled fact belongs to Arts?",
+    "question_ar": "(ARTS-09) أي حقيقة مُسماة تنتمي إلى فنون؟",
+    "options_en": [
+      "Arts Fact 8",
+      "Arts Fact 9",
+      "Arts Fact 10",
+      "Arts Fact 11"
+    ],
+    "options_ar": [
+      "Arts حقيقة 8",
+      "Arts حقيقة 9",
+      "Arts حقيقة 10",
+      "Arts حقيقة 11"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Arts fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة فنون.",
+    "is_active": true
+  },
+  {
+    "category_slug": "arts",
+    "difficulty": "medium",
+    "points": 20,
+    "question_en": "(ARTS-10) Which labeled fact belongs to Arts?",
+    "question_ar": "(ARTS-10) أي حقيقة مُسماة تنتمي إلى فنون؟",
+    "options_en": [
+      "Arts Fact 9",
+      "Arts Fact 10",
+      "Arts Fact 11",
+      "Arts Fact 12"
+    ],
+    "options_ar": [
+      "Arts حقيقة 9",
+      "Arts حقيقة 10",
+      "Arts حقيقة 11",
+      "Arts حقيقة 12"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Arts fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة فنون.",
+    "is_active": true
+  },
+  {
+    "category_slug": "arts",
+    "difficulty": "medium",
+    "points": 20,
+    "question_en": "(ARTS-11) Which labeled fact belongs to Arts?",
+    "question_ar": "(ARTS-11) أي حقيقة مُسماة تنتمي إلى فنون؟",
+    "options_en": [
+      "Arts Fact 10",
+      "Arts Fact 11",
+      "Arts Fact 12",
+      "Arts Fact 13"
+    ],
+    "options_ar": [
+      "Arts حقيقة 10",
+      "Arts حقيقة 11",
+      "Arts حقيقة 12",
+      "Arts حقيقة 13"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Arts fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة فنون.",
+    "is_active": true
+  },
+  {
+    "category_slug": "arts",
+    "difficulty": "medium",
+    "points": 20,
+    "question_en": "(ARTS-12) Which labeled fact belongs to Arts?",
+    "question_ar": "(ARTS-12) أي حقيقة مُسماة تنتمي إلى فنون؟",
+    "options_en": [
+      "Arts Fact 11",
+      "Arts Fact 12",
+      "Arts Fact 13",
+      "Arts Fact 14"
+    ],
+    "options_ar": [
+      "Arts حقيقة 11",
+      "Arts حقيقة 12",
+      "Arts حقيقة 13",
+      "Arts حقيقة 14"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Arts fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة فنون.",
+    "is_active": true
+  },
+  {
+    "category_slug": "arts",
+    "difficulty": "hard",
+    "points": 30,
+    "question_en": "(ARTS-13) Which labeled fact belongs to Arts?",
+    "question_ar": "(ARTS-13) أي حقيقة مُسماة تنتمي إلى فنون؟",
+    "options_en": [
+      "Arts Fact 12",
+      "Arts Fact 13",
+      "Arts Fact 14",
+      "Arts Fact 15"
+    ],
+    "options_ar": [
+      "Arts حقيقة 12",
+      "Arts حقيقة 13",
+      "Arts حقيقة 14",
+      "Arts حقيقة 15"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Arts fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة فنون.",
+    "is_active": true
+  },
+  {
+    "category_slug": "arts",
+    "difficulty": "hard",
+    "points": 30,
+    "question_en": "(ARTS-14) Which labeled fact belongs to Arts?",
+    "question_ar": "(ARTS-14) أي حقيقة مُسماة تنتمي إلى فنون؟",
+    "options_en": [
+      "Arts Fact 13",
+      "Arts Fact 14",
+      "Arts Fact 15",
+      "Arts Fact 1"
+    ],
+    "options_ar": [
+      "Arts حقيقة 13",
+      "Arts حقيقة 14",
+      "Arts حقيقة 15",
+      "Arts حقيقة 1"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Arts fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة فنون.",
+    "is_active": true
+  },
+  {
+    "category_slug": "arts",
+    "difficulty": "hard",
+    "points": 30,
+    "question_en": "(ARTS-15) Which labeled fact belongs to Arts?",
+    "question_ar": "(ARTS-15) أي حقيقة مُسماة تنتمي إلى فنون؟",
+    "options_en": [
+      "Arts Fact 14",
+      "Arts Fact 15",
+      "Arts Fact 1",
+      "Arts Fact 2"
+    ],
+    "options_ar": [
+      "Arts حقيقة 14",
+      "Arts حقيقة 15",
+      "Arts حقيقة 1",
+      "Arts حقيقة 2"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Arts fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة فنون.",
+    "is_active": true
+  },
+  {
+    "category_slug": "literature",
+    "difficulty": "easy",
+    "points": 10,
+    "question_en": "(LITERATURE-01) Which labeled fact belongs to Literature?",
+    "question_ar": "(LITERATURE-01) أي حقيقة مُسماة تنتمي إلى أدب؟",
+    "options_en": [
+      "Literature Fact 15",
+      "Literature Fact 1",
+      "Literature Fact 2",
+      "Literature Fact 3"
+    ],
+    "options_ar": [
+      "Literature حقيقة 15",
+      "Literature حقيقة 1",
+      "Literature حقيقة 2",
+      "Literature حقيقة 3"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Literature fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة أدب.",
+    "is_active": true
+  },
+  {
+    "category_slug": "literature",
+    "difficulty": "easy",
+    "points": 10,
+    "question_en": "(LITERATURE-02) Which labeled fact belongs to Literature?",
+    "question_ar": "(LITERATURE-02) أي حقيقة مُسماة تنتمي إلى أدب؟",
+    "options_en": [
+      "Literature Fact 1",
+      "Literature Fact 2",
+      "Literature Fact 3",
+      "Literature Fact 4"
+    ],
+    "options_ar": [
+      "Literature حقيقة 1",
+      "Literature حقيقة 2",
+      "Literature حقيقة 3",
+      "Literature حقيقة 4"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Literature fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة أدب.",
+    "is_active": true
+  },
+  {
+    "category_slug": "literature",
+    "difficulty": "easy",
+    "points": 10,
+    "question_en": "(LITERATURE-03) Which labeled fact belongs to Literature?",
+    "question_ar": "(LITERATURE-03) أي حقيقة مُسماة تنتمي إلى أدب؟",
+    "options_en": [
+      "Literature Fact 2",
+      "Literature Fact 3",
+      "Literature Fact 4",
+      "Literature Fact 5"
+    ],
+    "options_ar": [
+      "Literature حقيقة 2",
+      "Literature حقيقة 3",
+      "Literature حقيقة 4",
+      "Literature حقيقة 5"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Literature fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة أدب.",
+    "is_active": true
+  },
+  {
+    "category_slug": "literature",
+    "difficulty": "easy",
+    "points": 10,
+    "question_en": "(LITERATURE-04) Which labeled fact belongs to Literature?",
+    "question_ar": "(LITERATURE-04) أي حقيقة مُسماة تنتمي إلى أدب؟",
+    "options_en": [
+      "Literature Fact 3",
+      "Literature Fact 4",
+      "Literature Fact 5",
+      "Literature Fact 6"
+    ],
+    "options_ar": [
+      "Literature حقيقة 3",
+      "Literature حقيقة 4",
+      "Literature حقيقة 5",
+      "Literature حقيقة 6"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Literature fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة أدب.",
+    "is_active": true
+  },
+  {
+    "category_slug": "literature",
+    "difficulty": "easy",
+    "points": 10,
+    "question_en": "(LITERATURE-05) Which labeled fact belongs to Literature?",
+    "question_ar": "(LITERATURE-05) أي حقيقة مُسماة تنتمي إلى أدب؟",
+    "options_en": [
+      "Literature Fact 4",
+      "Literature Fact 5",
+      "Literature Fact 6",
+      "Literature Fact 7"
+    ],
+    "options_ar": [
+      "Literature حقيقة 4",
+      "Literature حقيقة 5",
+      "Literature حقيقة 6",
+      "Literature حقيقة 7"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Literature fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة أدب.",
+    "is_active": true
+  },
+  {
+    "category_slug": "literature",
+    "difficulty": "easy",
+    "points": 10,
+    "question_en": "(LITERATURE-06) Which labeled fact belongs to Literature?",
+    "question_ar": "(LITERATURE-06) أي حقيقة مُسماة تنتمي إلى أدب؟",
+    "options_en": [
+      "Literature Fact 5",
+      "Literature Fact 6",
+      "Literature Fact 7",
+      "Literature Fact 8"
+    ],
+    "options_ar": [
+      "Literature حقيقة 5",
+      "Literature حقيقة 6",
+      "Literature حقيقة 7",
+      "Literature حقيقة 8"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Literature fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة أدب.",
+    "is_active": true
+  },
+  {
+    "category_slug": "literature",
+    "difficulty": "medium",
+    "points": 20,
+    "question_en": "(LITERATURE-07) Which labeled fact belongs to Literature?",
+    "question_ar": "(LITERATURE-07) أي حقيقة مُسماة تنتمي إلى أدب؟",
+    "options_en": [
+      "Literature Fact 6",
+      "Literature Fact 7",
+      "Literature Fact 8",
+      "Literature Fact 9"
+    ],
+    "options_ar": [
+      "Literature حقيقة 6",
+      "Literature حقيقة 7",
+      "Literature حقيقة 8",
+      "Literature حقيقة 9"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Literature fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة أدب.",
+    "is_active": true
+  },
+  {
+    "category_slug": "literature",
+    "difficulty": "medium",
+    "points": 20,
+    "question_en": "(LITERATURE-08) Which labeled fact belongs to Literature?",
+    "question_ar": "(LITERATURE-08) أي حقيقة مُسماة تنتمي إلى أدب؟",
+    "options_en": [
+      "Literature Fact 7",
+      "Literature Fact 8",
+      "Literature Fact 9",
+      "Literature Fact 10"
+    ],
+    "options_ar": [
+      "Literature حقيقة 7",
+      "Literature حقيقة 8",
+      "Literature حقيقة 9",
+      "Literature حقيقة 10"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Literature fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة أدب.",
+    "is_active": true
+  },
+  {
+    "category_slug": "literature",
+    "difficulty": "medium",
+    "points": 20,
+    "question_en": "(LITERATURE-09) Which labeled fact belongs to Literature?",
+    "question_ar": "(LITERATURE-09) أي حقيقة مُسماة تنتمي إلى أدب؟",
+    "options_en": [
+      "Literature Fact 8",
+      "Literature Fact 9",
+      "Literature Fact 10",
+      "Literature Fact 11"
+    ],
+    "options_ar": [
+      "Literature حقيقة 8",
+      "Literature حقيقة 9",
+      "Literature حقيقة 10",
+      "Literature حقيقة 11"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Literature fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة أدب.",
+    "is_active": true
+  },
+  {
+    "category_slug": "literature",
+    "difficulty": "medium",
+    "points": 20,
+    "question_en": "(LITERATURE-10) Which labeled fact belongs to Literature?",
+    "question_ar": "(LITERATURE-10) أي حقيقة مُسماة تنتمي إلى أدب؟",
+    "options_en": [
+      "Literature Fact 9",
+      "Literature Fact 10",
+      "Literature Fact 11",
+      "Literature Fact 12"
+    ],
+    "options_ar": [
+      "Literature حقيقة 9",
+      "Literature حقيقة 10",
+      "Literature حقيقة 11",
+      "Literature حقيقة 12"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Literature fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة أدب.",
+    "is_active": true
+  },
+  {
+    "category_slug": "literature",
+    "difficulty": "medium",
+    "points": 20,
+    "question_en": "(LITERATURE-11) Which labeled fact belongs to Literature?",
+    "question_ar": "(LITERATURE-11) أي حقيقة مُسماة تنتمي إلى أدب؟",
+    "options_en": [
+      "Literature Fact 10",
+      "Literature Fact 11",
+      "Literature Fact 12",
+      "Literature Fact 13"
+    ],
+    "options_ar": [
+      "Literature حقيقة 10",
+      "Literature حقيقة 11",
+      "Literature حقيقة 12",
+      "Literature حقيقة 13"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Literature fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة أدب.",
+    "is_active": true
+  },
+  {
+    "category_slug": "literature",
+    "difficulty": "medium",
+    "points": 20,
+    "question_en": "(LITERATURE-12) Which labeled fact belongs to Literature?",
+    "question_ar": "(LITERATURE-12) أي حقيقة مُسماة تنتمي إلى أدب؟",
+    "options_en": [
+      "Literature Fact 11",
+      "Literature Fact 12",
+      "Literature Fact 13",
+      "Literature Fact 14"
+    ],
+    "options_ar": [
+      "Literature حقيقة 11",
+      "Literature حقيقة 12",
+      "Literature حقيقة 13",
+      "Literature حقيقة 14"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Literature fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة أدب.",
+    "is_active": true
+  },
+  {
+    "category_slug": "literature",
+    "difficulty": "hard",
+    "points": 30,
+    "question_en": "(LITERATURE-13) Which labeled fact belongs to Literature?",
+    "question_ar": "(LITERATURE-13) أي حقيقة مُسماة تنتمي إلى أدب؟",
+    "options_en": [
+      "Literature Fact 12",
+      "Literature Fact 13",
+      "Literature Fact 14",
+      "Literature Fact 15"
+    ],
+    "options_ar": [
+      "Literature حقيقة 12",
+      "Literature حقيقة 13",
+      "Literature حقيقة 14",
+      "Literature حقيقة 15"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Literature fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة أدب.",
+    "is_active": true
+  },
+  {
+    "category_slug": "literature",
+    "difficulty": "hard",
+    "points": 30,
+    "question_en": "(LITERATURE-14) Which labeled fact belongs to Literature?",
+    "question_ar": "(LITERATURE-14) أي حقيقة مُسماة تنتمي إلى أدب؟",
+    "options_en": [
+      "Literature Fact 13",
+      "Literature Fact 14",
+      "Literature Fact 15",
+      "Literature Fact 1"
+    ],
+    "options_ar": [
+      "Literature حقيقة 13",
+      "Literature حقيقة 14",
+      "Literature حقيقة 15",
+      "Literature حقيقة 1"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Literature fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة أدب.",
+    "is_active": true
+  },
+  {
+    "category_slug": "literature",
+    "difficulty": "hard",
+    "points": 30,
+    "question_en": "(LITERATURE-15) Which labeled fact belongs to Literature?",
+    "question_ar": "(LITERATURE-15) أي حقيقة مُسماة تنتمي إلى أدب؟",
+    "options_en": [
+      "Literature Fact 14",
+      "Literature Fact 15",
+      "Literature Fact 1",
+      "Literature Fact 2"
+    ],
+    "options_ar": [
+      "Literature حقيقة 14",
+      "Literature حقيقة 15",
+      "Literature حقيقة 1",
+      "Literature حقيقة 2"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Literature fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة أدب.",
+    "is_active": true
+  },
+  {
+    "category_slug": "pop-culture",
+    "difficulty": "easy",
+    "points": 10,
+    "question_en": "(POP-CULTURE-01) Which labeled fact belongs to Pop Culture?",
+    "question_ar": "(POP-CULTURE-01) أي حقيقة مُسماة تنتمي إلى ثقافة شعبية؟",
+    "options_en": [
+      "Pop Culture Fact 15",
+      "Pop Culture Fact 1",
+      "Pop Culture Fact 2",
+      "Pop Culture Fact 3"
+    ],
+    "options_ar": [
+      "Pop Culture حقيقة 15",
+      "Pop Culture حقيقة 1",
+      "Pop Culture حقيقة 2",
+      "Pop Culture حقيقة 3"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Pop Culture fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة ثقافة شعبية.",
+    "is_active": true
+  },
+  {
+    "category_slug": "pop-culture",
+    "difficulty": "easy",
+    "points": 10,
+    "question_en": "(POP-CULTURE-02) Which labeled fact belongs to Pop Culture?",
+    "question_ar": "(POP-CULTURE-02) أي حقيقة مُسماة تنتمي إلى ثقافة شعبية؟",
+    "options_en": [
+      "Pop Culture Fact 1",
+      "Pop Culture Fact 2",
+      "Pop Culture Fact 3",
+      "Pop Culture Fact 4"
+    ],
+    "options_ar": [
+      "Pop Culture حقيقة 1",
+      "Pop Culture حقيقة 2",
+      "Pop Culture حقيقة 3",
+      "Pop Culture حقيقة 4"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Pop Culture fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة ثقافة شعبية.",
+    "is_active": true
+  },
+  {
+    "category_slug": "pop-culture",
+    "difficulty": "easy",
+    "points": 10,
+    "question_en": "(POP-CULTURE-03) Which labeled fact belongs to Pop Culture?",
+    "question_ar": "(POP-CULTURE-03) أي حقيقة مُسماة تنتمي إلى ثقافة شعبية؟",
+    "options_en": [
+      "Pop Culture Fact 2",
+      "Pop Culture Fact 3",
+      "Pop Culture Fact 4",
+      "Pop Culture Fact 5"
+    ],
+    "options_ar": [
+      "Pop Culture حقيقة 2",
+      "Pop Culture حقيقة 3",
+      "Pop Culture حقيقة 4",
+      "Pop Culture حقيقة 5"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Pop Culture fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة ثقافة شعبية.",
+    "is_active": true
+  },
+  {
+    "category_slug": "pop-culture",
+    "difficulty": "easy",
+    "points": 10,
+    "question_en": "(POP-CULTURE-04) Which labeled fact belongs to Pop Culture?",
+    "question_ar": "(POP-CULTURE-04) أي حقيقة مُسماة تنتمي إلى ثقافة شعبية؟",
+    "options_en": [
+      "Pop Culture Fact 3",
+      "Pop Culture Fact 4",
+      "Pop Culture Fact 5",
+      "Pop Culture Fact 6"
+    ],
+    "options_ar": [
+      "Pop Culture حقيقة 3",
+      "Pop Culture حقيقة 4",
+      "Pop Culture حقيقة 5",
+      "Pop Culture حقيقة 6"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Pop Culture fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة ثقافة شعبية.",
+    "is_active": true
+  },
+  {
+    "category_slug": "pop-culture",
+    "difficulty": "easy",
+    "points": 10,
+    "question_en": "(POP-CULTURE-05) Which labeled fact belongs to Pop Culture?",
+    "question_ar": "(POP-CULTURE-05) أي حقيقة مُسماة تنتمي إلى ثقافة شعبية؟",
+    "options_en": [
+      "Pop Culture Fact 4",
+      "Pop Culture Fact 5",
+      "Pop Culture Fact 6",
+      "Pop Culture Fact 7"
+    ],
+    "options_ar": [
+      "Pop Culture حقيقة 4",
+      "Pop Culture حقيقة 5",
+      "Pop Culture حقيقة 6",
+      "Pop Culture حقيقة 7"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Pop Culture fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة ثقافة شعبية.",
+    "is_active": true
+  },
+  {
+    "category_slug": "pop-culture",
+    "difficulty": "easy",
+    "points": 10,
+    "question_en": "(POP-CULTURE-06) Which labeled fact belongs to Pop Culture?",
+    "question_ar": "(POP-CULTURE-06) أي حقيقة مُسماة تنتمي إلى ثقافة شعبية؟",
+    "options_en": [
+      "Pop Culture Fact 5",
+      "Pop Culture Fact 6",
+      "Pop Culture Fact 7",
+      "Pop Culture Fact 8"
+    ],
+    "options_ar": [
+      "Pop Culture حقيقة 5",
+      "Pop Culture حقيقة 6",
+      "Pop Culture حقيقة 7",
+      "Pop Culture حقيقة 8"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Pop Culture fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة ثقافة شعبية.",
+    "is_active": true
+  },
+  {
+    "category_slug": "pop-culture",
+    "difficulty": "medium",
+    "points": 20,
+    "question_en": "(POP-CULTURE-07) Which labeled fact belongs to Pop Culture?",
+    "question_ar": "(POP-CULTURE-07) أي حقيقة مُسماة تنتمي إلى ثقافة شعبية؟",
+    "options_en": [
+      "Pop Culture Fact 6",
+      "Pop Culture Fact 7",
+      "Pop Culture Fact 8",
+      "Pop Culture Fact 9"
+    ],
+    "options_ar": [
+      "Pop Culture حقيقة 6",
+      "Pop Culture حقيقة 7",
+      "Pop Culture حقيقة 8",
+      "Pop Culture حقيقة 9"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Pop Culture fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة ثقافة شعبية.",
+    "is_active": true
+  },
+  {
+    "category_slug": "pop-culture",
+    "difficulty": "medium",
+    "points": 20,
+    "question_en": "(POP-CULTURE-08) Which labeled fact belongs to Pop Culture?",
+    "question_ar": "(POP-CULTURE-08) أي حقيقة مُسماة تنتمي إلى ثقافة شعبية؟",
+    "options_en": [
+      "Pop Culture Fact 7",
+      "Pop Culture Fact 8",
+      "Pop Culture Fact 9",
+      "Pop Culture Fact 10"
+    ],
+    "options_ar": [
+      "Pop Culture حقيقة 7",
+      "Pop Culture حقيقة 8",
+      "Pop Culture حقيقة 9",
+      "Pop Culture حقيقة 10"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Pop Culture fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة ثقافة شعبية.",
+    "is_active": true
+  },
+  {
+    "category_slug": "pop-culture",
+    "difficulty": "medium",
+    "points": 20,
+    "question_en": "(POP-CULTURE-09) Which labeled fact belongs to Pop Culture?",
+    "question_ar": "(POP-CULTURE-09) أي حقيقة مُسماة تنتمي إلى ثقافة شعبية؟",
+    "options_en": [
+      "Pop Culture Fact 8",
+      "Pop Culture Fact 9",
+      "Pop Culture Fact 10",
+      "Pop Culture Fact 11"
+    ],
+    "options_ar": [
+      "Pop Culture حقيقة 8",
+      "Pop Culture حقيقة 9",
+      "Pop Culture حقيقة 10",
+      "Pop Culture حقيقة 11"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Pop Culture fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة ثقافة شعبية.",
+    "is_active": true
+  },
+  {
+    "category_slug": "pop-culture",
+    "difficulty": "medium",
+    "points": 20,
+    "question_en": "(POP-CULTURE-10) Which labeled fact belongs to Pop Culture?",
+    "question_ar": "(POP-CULTURE-10) أي حقيقة مُسماة تنتمي إلى ثقافة شعبية؟",
+    "options_en": [
+      "Pop Culture Fact 9",
+      "Pop Culture Fact 10",
+      "Pop Culture Fact 11",
+      "Pop Culture Fact 12"
+    ],
+    "options_ar": [
+      "Pop Culture حقيقة 9",
+      "Pop Culture حقيقة 10",
+      "Pop Culture حقيقة 11",
+      "Pop Culture حقيقة 12"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Pop Culture fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة ثقافة شعبية.",
+    "is_active": true
+  },
+  {
+    "category_slug": "pop-culture",
+    "difficulty": "medium",
+    "points": 20,
+    "question_en": "(POP-CULTURE-11) Which labeled fact belongs to Pop Culture?",
+    "question_ar": "(POP-CULTURE-11) أي حقيقة مُسماة تنتمي إلى ثقافة شعبية؟",
+    "options_en": [
+      "Pop Culture Fact 10",
+      "Pop Culture Fact 11",
+      "Pop Culture Fact 12",
+      "Pop Culture Fact 13"
+    ],
+    "options_ar": [
+      "Pop Culture حقيقة 10",
+      "Pop Culture حقيقة 11",
+      "Pop Culture حقيقة 12",
+      "Pop Culture حقيقة 13"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Pop Culture fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة ثقافة شعبية.",
+    "is_active": true
+  },
+  {
+    "category_slug": "pop-culture",
+    "difficulty": "medium",
+    "points": 20,
+    "question_en": "(POP-CULTURE-12) Which labeled fact belongs to Pop Culture?",
+    "question_ar": "(POP-CULTURE-12) أي حقيقة مُسماة تنتمي إلى ثقافة شعبية؟",
+    "options_en": [
+      "Pop Culture Fact 11",
+      "Pop Culture Fact 12",
+      "Pop Culture Fact 13",
+      "Pop Culture Fact 14"
+    ],
+    "options_ar": [
+      "Pop Culture حقيقة 11",
+      "Pop Culture حقيقة 12",
+      "Pop Culture حقيقة 13",
+      "Pop Culture حقيقة 14"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Pop Culture fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة ثقافة شعبية.",
+    "is_active": true
+  },
+  {
+    "category_slug": "pop-culture",
+    "difficulty": "hard",
+    "points": 30,
+    "question_en": "(POP-CULTURE-13) Which labeled fact belongs to Pop Culture?",
+    "question_ar": "(POP-CULTURE-13) أي حقيقة مُسماة تنتمي إلى ثقافة شعبية؟",
+    "options_en": [
+      "Pop Culture Fact 12",
+      "Pop Culture Fact 13",
+      "Pop Culture Fact 14",
+      "Pop Culture Fact 15"
+    ],
+    "options_ar": [
+      "Pop Culture حقيقة 12",
+      "Pop Culture حقيقة 13",
+      "Pop Culture حقيقة 14",
+      "Pop Culture حقيقة 15"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Pop Culture fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة ثقافة شعبية.",
+    "is_active": true
+  },
+  {
+    "category_slug": "pop-culture",
+    "difficulty": "hard",
+    "points": 30,
+    "question_en": "(POP-CULTURE-14) Which labeled fact belongs to Pop Culture?",
+    "question_ar": "(POP-CULTURE-14) أي حقيقة مُسماة تنتمي إلى ثقافة شعبية؟",
+    "options_en": [
+      "Pop Culture Fact 13",
+      "Pop Culture Fact 14",
+      "Pop Culture Fact 15",
+      "Pop Culture Fact 1"
+    ],
+    "options_ar": [
+      "Pop Culture حقيقة 13",
+      "Pop Culture حقيقة 14",
+      "Pop Culture حقيقة 15",
+      "Pop Culture حقيقة 1"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Pop Culture fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة ثقافة شعبية.",
+    "is_active": true
+  },
+  {
+    "category_slug": "pop-culture",
+    "difficulty": "hard",
+    "points": 30,
+    "question_en": "(POP-CULTURE-15) Which labeled fact belongs to Pop Culture?",
+    "question_ar": "(POP-CULTURE-15) أي حقيقة مُسماة تنتمي إلى ثقافة شعبية؟",
+    "options_en": [
+      "Pop Culture Fact 14",
+      "Pop Culture Fact 15",
+      "Pop Culture Fact 1",
+      "Pop Culture Fact 2"
+    ],
+    "options_ar": [
+      "Pop Culture حقيقة 14",
+      "Pop Culture حقيقة 15",
+      "Pop Culture حقيقة 1",
+      "Pop Culture حقيقة 2"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Pop Culture fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة ثقافة شعبية.",
+    "is_active": true
+  },
+  {
+    "category_slug": "arabic-culture",
+    "difficulty": "easy",
+    "points": 10,
+    "question_en": "(ARABIC-CULTURE-01) Which labeled fact belongs to Arabic Culture?",
+    "question_ar": "(ARABIC-CULTURE-01) أي حقيقة مُسماة تنتمي إلى الثقافة العربية؟",
+    "options_en": [
+      "Arabic Culture Fact 15",
+      "Arabic Culture Fact 1",
+      "Arabic Culture Fact 2",
+      "Arabic Culture Fact 3"
+    ],
+    "options_ar": [
+      "Arabic Culture حقيقة 15",
+      "Arabic Culture حقيقة 1",
+      "Arabic Culture حقيقة 2",
+      "Arabic Culture حقيقة 3"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Arabic Culture fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة الثقافة العربية.",
+    "is_active": true
+  },
+  {
+    "category_slug": "arabic-culture",
+    "difficulty": "easy",
+    "points": 10,
+    "question_en": "(ARABIC-CULTURE-02) Which labeled fact belongs to Arabic Culture?",
+    "question_ar": "(ARABIC-CULTURE-02) أي حقيقة مُسماة تنتمي إلى الثقافة العربية؟",
+    "options_en": [
+      "Arabic Culture Fact 1",
+      "Arabic Culture Fact 2",
+      "Arabic Culture Fact 3",
+      "Arabic Culture Fact 4"
+    ],
+    "options_ar": [
+      "Arabic Culture حقيقة 1",
+      "Arabic Culture حقيقة 2",
+      "Arabic Culture حقيقة 3",
+      "Arabic Culture حقيقة 4"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Arabic Culture fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة الثقافة العربية.",
+    "is_active": true
+  },
+  {
+    "category_slug": "arabic-culture",
+    "difficulty": "easy",
+    "points": 10,
+    "question_en": "(ARABIC-CULTURE-03) Which labeled fact belongs to Arabic Culture?",
+    "question_ar": "(ARABIC-CULTURE-03) أي حقيقة مُسماة تنتمي إلى الثقافة العربية؟",
+    "options_en": [
+      "Arabic Culture Fact 2",
+      "Arabic Culture Fact 3",
+      "Arabic Culture Fact 4",
+      "Arabic Culture Fact 5"
+    ],
+    "options_ar": [
+      "Arabic Culture حقيقة 2",
+      "Arabic Culture حقيقة 3",
+      "Arabic Culture حقيقة 4",
+      "Arabic Culture حقيقة 5"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Arabic Culture fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة الثقافة العربية.",
+    "is_active": true
+  },
+  {
+    "category_slug": "arabic-culture",
+    "difficulty": "easy",
+    "points": 10,
+    "question_en": "(ARABIC-CULTURE-04) Which labeled fact belongs to Arabic Culture?",
+    "question_ar": "(ARABIC-CULTURE-04) أي حقيقة مُسماة تنتمي إلى الثقافة العربية؟",
+    "options_en": [
+      "Arabic Culture Fact 3",
+      "Arabic Culture Fact 4",
+      "Arabic Culture Fact 5",
+      "Arabic Culture Fact 6"
+    ],
+    "options_ar": [
+      "Arabic Culture حقيقة 3",
+      "Arabic Culture حقيقة 4",
+      "Arabic Culture حقيقة 5",
+      "Arabic Culture حقيقة 6"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Arabic Culture fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة الثقافة العربية.",
+    "is_active": true
+  },
+  {
+    "category_slug": "arabic-culture",
+    "difficulty": "easy",
+    "points": 10,
+    "question_en": "(ARABIC-CULTURE-05) Which labeled fact belongs to Arabic Culture?",
+    "question_ar": "(ARABIC-CULTURE-05) أي حقيقة مُسماة تنتمي إلى الثقافة العربية؟",
+    "options_en": [
+      "Arabic Culture Fact 4",
+      "Arabic Culture Fact 5",
+      "Arabic Culture Fact 6",
+      "Arabic Culture Fact 7"
+    ],
+    "options_ar": [
+      "Arabic Culture حقيقة 4",
+      "Arabic Culture حقيقة 5",
+      "Arabic Culture حقيقة 6",
+      "Arabic Culture حقيقة 7"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Arabic Culture fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة الثقافة العربية.",
+    "is_active": true
+  },
+  {
+    "category_slug": "arabic-culture",
+    "difficulty": "easy",
+    "points": 10,
+    "question_en": "(ARABIC-CULTURE-06) Which labeled fact belongs to Arabic Culture?",
+    "question_ar": "(ARABIC-CULTURE-06) أي حقيقة مُسماة تنتمي إلى الثقافة العربية؟",
+    "options_en": [
+      "Arabic Culture Fact 5",
+      "Arabic Culture Fact 6",
+      "Arabic Culture Fact 7",
+      "Arabic Culture Fact 8"
+    ],
+    "options_ar": [
+      "Arabic Culture حقيقة 5",
+      "Arabic Culture حقيقة 6",
+      "Arabic Culture حقيقة 7",
+      "Arabic Culture حقيقة 8"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Arabic Culture fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة الثقافة العربية.",
+    "is_active": true
+  },
+  {
+    "category_slug": "arabic-culture",
+    "difficulty": "medium",
+    "points": 20,
+    "question_en": "(ARABIC-CULTURE-07) Which labeled fact belongs to Arabic Culture?",
+    "question_ar": "(ARABIC-CULTURE-07) أي حقيقة مُسماة تنتمي إلى الثقافة العربية؟",
+    "options_en": [
+      "Arabic Culture Fact 6",
+      "Arabic Culture Fact 7",
+      "Arabic Culture Fact 8",
+      "Arabic Culture Fact 9"
+    ],
+    "options_ar": [
+      "Arabic Culture حقيقة 6",
+      "Arabic Culture حقيقة 7",
+      "Arabic Culture حقيقة 8",
+      "Arabic Culture حقيقة 9"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Arabic Culture fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة الثقافة العربية.",
+    "is_active": true
+  },
+  {
+    "category_slug": "arabic-culture",
+    "difficulty": "medium",
+    "points": 20,
+    "question_en": "(ARABIC-CULTURE-08) Which labeled fact belongs to Arabic Culture?",
+    "question_ar": "(ARABIC-CULTURE-08) أي حقيقة مُسماة تنتمي إلى الثقافة العربية؟",
+    "options_en": [
+      "Arabic Culture Fact 7",
+      "Arabic Culture Fact 8",
+      "Arabic Culture Fact 9",
+      "Arabic Culture Fact 10"
+    ],
+    "options_ar": [
+      "Arabic Culture حقيقة 7",
+      "Arabic Culture حقيقة 8",
+      "Arabic Culture حقيقة 9",
+      "Arabic Culture حقيقة 10"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Arabic Culture fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة الثقافة العربية.",
+    "is_active": true
+  },
+  {
+    "category_slug": "arabic-culture",
+    "difficulty": "medium",
+    "points": 20,
+    "question_en": "(ARABIC-CULTURE-09) Which labeled fact belongs to Arabic Culture?",
+    "question_ar": "(ARABIC-CULTURE-09) أي حقيقة مُسماة تنتمي إلى الثقافة العربية؟",
+    "options_en": [
+      "Arabic Culture Fact 8",
+      "Arabic Culture Fact 9",
+      "Arabic Culture Fact 10",
+      "Arabic Culture Fact 11"
+    ],
+    "options_ar": [
+      "Arabic Culture حقيقة 8",
+      "Arabic Culture حقيقة 9",
+      "Arabic Culture حقيقة 10",
+      "Arabic Culture حقيقة 11"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Arabic Culture fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة الثقافة العربية.",
+    "is_active": true
+  },
+  {
+    "category_slug": "arabic-culture",
+    "difficulty": "medium",
+    "points": 20,
+    "question_en": "(ARABIC-CULTURE-10) Which labeled fact belongs to Arabic Culture?",
+    "question_ar": "(ARABIC-CULTURE-10) أي حقيقة مُسماة تنتمي إلى الثقافة العربية؟",
+    "options_en": [
+      "Arabic Culture Fact 9",
+      "Arabic Culture Fact 10",
+      "Arabic Culture Fact 11",
+      "Arabic Culture Fact 12"
+    ],
+    "options_ar": [
+      "Arabic Culture حقيقة 9",
+      "Arabic Culture حقيقة 10",
+      "Arabic Culture حقيقة 11",
+      "Arabic Culture حقيقة 12"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Arabic Culture fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة الثقافة العربية.",
+    "is_active": true
+  },
+  {
+    "category_slug": "arabic-culture",
+    "difficulty": "medium",
+    "points": 20,
+    "question_en": "(ARABIC-CULTURE-11) Which labeled fact belongs to Arabic Culture?",
+    "question_ar": "(ARABIC-CULTURE-11) أي حقيقة مُسماة تنتمي إلى الثقافة العربية؟",
+    "options_en": [
+      "Arabic Culture Fact 10",
+      "Arabic Culture Fact 11",
+      "Arabic Culture Fact 12",
+      "Arabic Culture Fact 13"
+    ],
+    "options_ar": [
+      "Arabic Culture حقيقة 10",
+      "Arabic Culture حقيقة 11",
+      "Arabic Culture حقيقة 12",
+      "Arabic Culture حقيقة 13"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Arabic Culture fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة الثقافة العربية.",
+    "is_active": true
+  },
+  {
+    "category_slug": "arabic-culture",
+    "difficulty": "medium",
+    "points": 20,
+    "question_en": "(ARABIC-CULTURE-12) Which labeled fact belongs to Arabic Culture?",
+    "question_ar": "(ARABIC-CULTURE-12) أي حقيقة مُسماة تنتمي إلى الثقافة العربية؟",
+    "options_en": [
+      "Arabic Culture Fact 11",
+      "Arabic Culture Fact 12",
+      "Arabic Culture Fact 13",
+      "Arabic Culture Fact 14"
+    ],
+    "options_ar": [
+      "Arabic Culture حقيقة 11",
+      "Arabic Culture حقيقة 12",
+      "Arabic Culture حقيقة 13",
+      "Arabic Culture حقيقة 14"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Arabic Culture fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة الثقافة العربية.",
+    "is_active": true
+  },
+  {
+    "category_slug": "arabic-culture",
+    "difficulty": "hard",
+    "points": 30,
+    "question_en": "(ARABIC-CULTURE-13) Which labeled fact belongs to Arabic Culture?",
+    "question_ar": "(ARABIC-CULTURE-13) أي حقيقة مُسماة تنتمي إلى الثقافة العربية؟",
+    "options_en": [
+      "Arabic Culture Fact 12",
+      "Arabic Culture Fact 13",
+      "Arabic Culture Fact 14",
+      "Arabic Culture Fact 15"
+    ],
+    "options_ar": [
+      "Arabic Culture حقيقة 12",
+      "Arabic Culture حقيقة 13",
+      "Arabic Culture حقيقة 14",
+      "Arabic Culture حقيقة 15"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Arabic Culture fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة الثقافة العربية.",
+    "is_active": true
+  },
+  {
+    "category_slug": "arabic-culture",
+    "difficulty": "hard",
+    "points": 30,
+    "question_en": "(ARABIC-CULTURE-14) Which labeled fact belongs to Arabic Culture?",
+    "question_ar": "(ARABIC-CULTURE-14) أي حقيقة مُسماة تنتمي إلى الثقافة العربية؟",
+    "options_en": [
+      "Arabic Culture Fact 13",
+      "Arabic Culture Fact 14",
+      "Arabic Culture Fact 15",
+      "Arabic Culture Fact 1"
+    ],
+    "options_ar": [
+      "Arabic Culture حقيقة 13",
+      "Arabic Culture حقيقة 14",
+      "Arabic Culture حقيقة 15",
+      "Arabic Culture حقيقة 1"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Arabic Culture fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة الثقافة العربية.",
+    "is_active": true
+  },
+  {
+    "category_slug": "arabic-culture",
+    "difficulty": "hard",
+    "points": 30,
+    "question_en": "(ARABIC-CULTURE-15) Which labeled fact belongs to Arabic Culture?",
+    "question_ar": "(ARABIC-CULTURE-15) أي حقيقة مُسماة تنتمي إلى الثقافة العربية؟",
+    "options_en": [
+      "Arabic Culture Fact 14",
+      "Arabic Culture Fact 15",
+      "Arabic Culture Fact 1",
+      "Arabic Culture Fact 2"
+    ],
+    "options_ar": [
+      "Arabic Culture حقيقة 14",
+      "Arabic Culture حقيقة 15",
+      "Arabic Culture حقيقة 1",
+      "Arabic Culture حقيقة 2"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Arabic Culture fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة الثقافة العربية.",
+    "is_active": true
+  },
+  {
+    "category_slug": "middle-east",
+    "difficulty": "easy",
+    "points": 10,
+    "question_en": "(MIDDLE-EAST-01) Which labeled fact belongs to Middle East?",
+    "question_ar": "(MIDDLE-EAST-01) أي حقيقة مُسماة تنتمي إلى الشرق الأوسط؟",
+    "options_en": [
+      "Middle East Fact 15",
+      "Middle East Fact 1",
+      "Middle East Fact 2",
+      "Middle East Fact 3"
+    ],
+    "options_ar": [
+      "Middle East حقيقة 15",
+      "Middle East حقيقة 1",
+      "Middle East حقيقة 2",
+      "Middle East حقيقة 3"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Middle East fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة الشرق الأوسط.",
+    "is_active": true
+  },
+  {
+    "category_slug": "middle-east",
+    "difficulty": "easy",
+    "points": 10,
+    "question_en": "(MIDDLE-EAST-02) Which labeled fact belongs to Middle East?",
+    "question_ar": "(MIDDLE-EAST-02) أي حقيقة مُسماة تنتمي إلى الشرق الأوسط؟",
+    "options_en": [
+      "Middle East Fact 1",
+      "Middle East Fact 2",
+      "Middle East Fact 3",
+      "Middle East Fact 4"
+    ],
+    "options_ar": [
+      "Middle East حقيقة 1",
+      "Middle East حقيقة 2",
+      "Middle East حقيقة 3",
+      "Middle East حقيقة 4"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Middle East fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة الشرق الأوسط.",
+    "is_active": true
+  },
+  {
+    "category_slug": "middle-east",
+    "difficulty": "easy",
+    "points": 10,
+    "question_en": "(MIDDLE-EAST-03) Which labeled fact belongs to Middle East?",
+    "question_ar": "(MIDDLE-EAST-03) أي حقيقة مُسماة تنتمي إلى الشرق الأوسط؟",
+    "options_en": [
+      "Middle East Fact 2",
+      "Middle East Fact 3",
+      "Middle East Fact 4",
+      "Middle East Fact 5"
+    ],
+    "options_ar": [
+      "Middle East حقيقة 2",
+      "Middle East حقيقة 3",
+      "Middle East حقيقة 4",
+      "Middle East حقيقة 5"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Middle East fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة الشرق الأوسط.",
+    "is_active": true
+  },
+  {
+    "category_slug": "middle-east",
+    "difficulty": "easy",
+    "points": 10,
+    "question_en": "(MIDDLE-EAST-04) Which labeled fact belongs to Middle East?",
+    "question_ar": "(MIDDLE-EAST-04) أي حقيقة مُسماة تنتمي إلى الشرق الأوسط؟",
+    "options_en": [
+      "Middle East Fact 3",
+      "Middle East Fact 4",
+      "Middle East Fact 5",
+      "Middle East Fact 6"
+    ],
+    "options_ar": [
+      "Middle East حقيقة 3",
+      "Middle East حقيقة 4",
+      "Middle East حقيقة 5",
+      "Middle East حقيقة 6"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Middle East fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة الشرق الأوسط.",
+    "is_active": true
+  },
+  {
+    "category_slug": "middle-east",
+    "difficulty": "easy",
+    "points": 10,
+    "question_en": "(MIDDLE-EAST-05) Which labeled fact belongs to Middle East?",
+    "question_ar": "(MIDDLE-EAST-05) أي حقيقة مُسماة تنتمي إلى الشرق الأوسط؟",
+    "options_en": [
+      "Middle East Fact 4",
+      "Middle East Fact 5",
+      "Middle East Fact 6",
+      "Middle East Fact 7"
+    ],
+    "options_ar": [
+      "Middle East حقيقة 4",
+      "Middle East حقيقة 5",
+      "Middle East حقيقة 6",
+      "Middle East حقيقة 7"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Middle East fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة الشرق الأوسط.",
+    "is_active": true
+  },
+  {
+    "category_slug": "middle-east",
+    "difficulty": "easy",
+    "points": 10,
+    "question_en": "(MIDDLE-EAST-06) Which labeled fact belongs to Middle East?",
+    "question_ar": "(MIDDLE-EAST-06) أي حقيقة مُسماة تنتمي إلى الشرق الأوسط؟",
+    "options_en": [
+      "Middle East Fact 5",
+      "Middle East Fact 6",
+      "Middle East Fact 7",
+      "Middle East Fact 8"
+    ],
+    "options_ar": [
+      "Middle East حقيقة 5",
+      "Middle East حقيقة 6",
+      "Middle East حقيقة 7",
+      "Middle East حقيقة 8"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Middle East fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة الشرق الأوسط.",
+    "is_active": true
+  },
+  {
+    "category_slug": "middle-east",
+    "difficulty": "medium",
+    "points": 20,
+    "question_en": "(MIDDLE-EAST-07) Which labeled fact belongs to Middle East?",
+    "question_ar": "(MIDDLE-EAST-07) أي حقيقة مُسماة تنتمي إلى الشرق الأوسط؟",
+    "options_en": [
+      "Middle East Fact 6",
+      "Middle East Fact 7",
+      "Middle East Fact 8",
+      "Middle East Fact 9"
+    ],
+    "options_ar": [
+      "Middle East حقيقة 6",
+      "Middle East حقيقة 7",
+      "Middle East حقيقة 8",
+      "Middle East حقيقة 9"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Middle East fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة الشرق الأوسط.",
+    "is_active": true
+  },
+  {
+    "category_slug": "middle-east",
+    "difficulty": "medium",
+    "points": 20,
+    "question_en": "(MIDDLE-EAST-08) Which labeled fact belongs to Middle East?",
+    "question_ar": "(MIDDLE-EAST-08) أي حقيقة مُسماة تنتمي إلى الشرق الأوسط؟",
+    "options_en": [
+      "Middle East Fact 7",
+      "Middle East Fact 8",
+      "Middle East Fact 9",
+      "Middle East Fact 10"
+    ],
+    "options_ar": [
+      "Middle East حقيقة 7",
+      "Middle East حقيقة 8",
+      "Middle East حقيقة 9",
+      "Middle East حقيقة 10"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Middle East fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة الشرق الأوسط.",
+    "is_active": true
+  },
+  {
+    "category_slug": "middle-east",
+    "difficulty": "medium",
+    "points": 20,
+    "question_en": "(MIDDLE-EAST-09) Which labeled fact belongs to Middle East?",
+    "question_ar": "(MIDDLE-EAST-09) أي حقيقة مُسماة تنتمي إلى الشرق الأوسط؟",
+    "options_en": [
+      "Middle East Fact 8",
+      "Middle East Fact 9",
+      "Middle East Fact 10",
+      "Middle East Fact 11"
+    ],
+    "options_ar": [
+      "Middle East حقيقة 8",
+      "Middle East حقيقة 9",
+      "Middle East حقيقة 10",
+      "Middle East حقيقة 11"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Middle East fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة الشرق الأوسط.",
+    "is_active": true
+  },
+  {
+    "category_slug": "middle-east",
+    "difficulty": "medium",
+    "points": 20,
+    "question_en": "(MIDDLE-EAST-10) Which labeled fact belongs to Middle East?",
+    "question_ar": "(MIDDLE-EAST-10) أي حقيقة مُسماة تنتمي إلى الشرق الأوسط؟",
+    "options_en": [
+      "Middle East Fact 9",
+      "Middle East Fact 10",
+      "Middle East Fact 11",
+      "Middle East Fact 12"
+    ],
+    "options_ar": [
+      "Middle East حقيقة 9",
+      "Middle East حقيقة 10",
+      "Middle East حقيقة 11",
+      "Middle East حقيقة 12"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Middle East fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة الشرق الأوسط.",
+    "is_active": true
+  },
+  {
+    "category_slug": "middle-east",
+    "difficulty": "medium",
+    "points": 20,
+    "question_en": "(MIDDLE-EAST-11) Which labeled fact belongs to Middle East?",
+    "question_ar": "(MIDDLE-EAST-11) أي حقيقة مُسماة تنتمي إلى الشرق الأوسط؟",
+    "options_en": [
+      "Middle East Fact 10",
+      "Middle East Fact 11",
+      "Middle East Fact 12",
+      "Middle East Fact 13"
+    ],
+    "options_ar": [
+      "Middle East حقيقة 10",
+      "Middle East حقيقة 11",
+      "Middle East حقيقة 12",
+      "Middle East حقيقة 13"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Middle East fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة الشرق الأوسط.",
+    "is_active": true
+  },
+  {
+    "category_slug": "middle-east",
+    "difficulty": "medium",
+    "points": 20,
+    "question_en": "(MIDDLE-EAST-12) Which labeled fact belongs to Middle East?",
+    "question_ar": "(MIDDLE-EAST-12) أي حقيقة مُسماة تنتمي إلى الشرق الأوسط؟",
+    "options_en": [
+      "Middle East Fact 11",
+      "Middle East Fact 12",
+      "Middle East Fact 13",
+      "Middle East Fact 14"
+    ],
+    "options_ar": [
+      "Middle East حقيقة 11",
+      "Middle East حقيقة 12",
+      "Middle East حقيقة 13",
+      "Middle East حقيقة 14"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Middle East fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة الشرق الأوسط.",
+    "is_active": true
+  },
+  {
+    "category_slug": "middle-east",
+    "difficulty": "hard",
+    "points": 30,
+    "question_en": "(MIDDLE-EAST-13) Which labeled fact belongs to Middle East?",
+    "question_ar": "(MIDDLE-EAST-13) أي حقيقة مُسماة تنتمي إلى الشرق الأوسط؟",
+    "options_en": [
+      "Middle East Fact 12",
+      "Middle East Fact 13",
+      "Middle East Fact 14",
+      "Middle East Fact 15"
+    ],
+    "options_ar": [
+      "Middle East حقيقة 12",
+      "Middle East حقيقة 13",
+      "Middle East حقيقة 14",
+      "Middle East حقيقة 15"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Middle East fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة الشرق الأوسط.",
+    "is_active": true
+  },
+  {
+    "category_slug": "middle-east",
+    "difficulty": "hard",
+    "points": 30,
+    "question_en": "(MIDDLE-EAST-14) Which labeled fact belongs to Middle East?",
+    "question_ar": "(MIDDLE-EAST-14) أي حقيقة مُسماة تنتمي إلى الشرق الأوسط؟",
+    "options_en": [
+      "Middle East Fact 13",
+      "Middle East Fact 14",
+      "Middle East Fact 15",
+      "Middle East Fact 1"
+    ],
+    "options_ar": [
+      "Middle East حقيقة 13",
+      "Middle East حقيقة 14",
+      "Middle East حقيقة 15",
+      "Middle East حقيقة 1"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Middle East fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة الشرق الأوسط.",
+    "is_active": true
+  },
+  {
+    "category_slug": "middle-east",
+    "difficulty": "hard",
+    "points": 30,
+    "question_en": "(MIDDLE-EAST-15) Which labeled fact belongs to Middle East?",
+    "question_ar": "(MIDDLE-EAST-15) أي حقيقة مُسماة تنتمي إلى الشرق الأوسط؟",
+    "options_en": [
+      "Middle East Fact 14",
+      "Middle East Fact 15",
+      "Middle East Fact 1",
+      "Middle East Fact 2"
+    ],
+    "options_ar": [
+      "Middle East حقيقة 14",
+      "Middle East حقيقة 15",
+      "Middle East حقيقة 1",
+      "Middle East حقيقة 2"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Middle East fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة الشرق الأوسط.",
+    "is_active": true
+  },
+  {
+    "category_slug": "jordan",
+    "difficulty": "easy",
+    "points": 10,
+    "question_en": "(JORDAN-01) Which labeled fact belongs to Jordan?",
+    "question_ar": "(JORDAN-01) أي حقيقة مُسماة تنتمي إلى الأردن؟",
+    "options_en": [
+      "Jordan Fact 15",
+      "Jordan Fact 1",
+      "Jordan Fact 2",
+      "Jordan Fact 3"
+    ],
+    "options_ar": [
+      "Jordan حقيقة 15",
+      "Jordan حقيقة 1",
+      "Jordan حقيقة 2",
+      "Jordan حقيقة 3"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Jordan fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة الأردن.",
+    "is_active": true
+  },
+  {
+    "category_slug": "jordan",
+    "difficulty": "easy",
+    "points": 10,
+    "question_en": "(JORDAN-02) Which labeled fact belongs to Jordan?",
+    "question_ar": "(JORDAN-02) أي حقيقة مُسماة تنتمي إلى الأردن؟",
+    "options_en": [
+      "Jordan Fact 1",
+      "Jordan Fact 2",
+      "Jordan Fact 3",
+      "Jordan Fact 4"
+    ],
+    "options_ar": [
+      "Jordan حقيقة 1",
+      "Jordan حقيقة 2",
+      "Jordan حقيقة 3",
+      "Jordan حقيقة 4"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Jordan fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة الأردن.",
+    "is_active": true
+  },
+  {
+    "category_slug": "jordan",
+    "difficulty": "easy",
+    "points": 10,
+    "question_en": "(JORDAN-03) Which labeled fact belongs to Jordan?",
+    "question_ar": "(JORDAN-03) أي حقيقة مُسماة تنتمي إلى الأردن؟",
+    "options_en": [
+      "Jordan Fact 2",
+      "Jordan Fact 3",
+      "Jordan Fact 4",
+      "Jordan Fact 5"
+    ],
+    "options_ar": [
+      "Jordan حقيقة 2",
+      "Jordan حقيقة 3",
+      "Jordan حقيقة 4",
+      "Jordan حقيقة 5"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Jordan fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة الأردن.",
+    "is_active": true
+  },
+  {
+    "category_slug": "jordan",
+    "difficulty": "easy",
+    "points": 10,
+    "question_en": "(JORDAN-04) Which labeled fact belongs to Jordan?",
+    "question_ar": "(JORDAN-04) أي حقيقة مُسماة تنتمي إلى الأردن؟",
+    "options_en": [
+      "Jordan Fact 3",
+      "Jordan Fact 4",
+      "Jordan Fact 5",
+      "Jordan Fact 6"
+    ],
+    "options_ar": [
+      "Jordan حقيقة 3",
+      "Jordan حقيقة 4",
+      "Jordan حقيقة 5",
+      "Jordan حقيقة 6"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Jordan fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة الأردن.",
+    "is_active": true
+  },
+  {
+    "category_slug": "jordan",
+    "difficulty": "easy",
+    "points": 10,
+    "question_en": "(JORDAN-05) Which labeled fact belongs to Jordan?",
+    "question_ar": "(JORDAN-05) أي حقيقة مُسماة تنتمي إلى الأردن؟",
+    "options_en": [
+      "Jordan Fact 4",
+      "Jordan Fact 5",
+      "Jordan Fact 6",
+      "Jordan Fact 7"
+    ],
+    "options_ar": [
+      "Jordan حقيقة 4",
+      "Jordan حقيقة 5",
+      "Jordan حقيقة 6",
+      "Jordan حقيقة 7"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Jordan fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة الأردن.",
+    "is_active": true
+  },
+  {
+    "category_slug": "jordan",
+    "difficulty": "easy",
+    "points": 10,
+    "question_en": "(JORDAN-06) Which labeled fact belongs to Jordan?",
+    "question_ar": "(JORDAN-06) أي حقيقة مُسماة تنتمي إلى الأردن؟",
+    "options_en": [
+      "Jordan Fact 5",
+      "Jordan Fact 6",
+      "Jordan Fact 7",
+      "Jordan Fact 8"
+    ],
+    "options_ar": [
+      "Jordan حقيقة 5",
+      "Jordan حقيقة 6",
+      "Jordan حقيقة 7",
+      "Jordan حقيقة 8"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Jordan fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة الأردن.",
+    "is_active": true
+  },
+  {
+    "category_slug": "jordan",
+    "difficulty": "medium",
+    "points": 20,
+    "question_en": "(JORDAN-07) Which labeled fact belongs to Jordan?",
+    "question_ar": "(JORDAN-07) أي حقيقة مُسماة تنتمي إلى الأردن؟",
+    "options_en": [
+      "Jordan Fact 6",
+      "Jordan Fact 7",
+      "Jordan Fact 8",
+      "Jordan Fact 9"
+    ],
+    "options_ar": [
+      "Jordan حقيقة 6",
+      "Jordan حقيقة 7",
+      "Jordan حقيقة 8",
+      "Jordan حقيقة 9"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Jordan fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة الأردن.",
+    "is_active": true
+  },
+  {
+    "category_slug": "jordan",
+    "difficulty": "medium",
+    "points": 20,
+    "question_en": "(JORDAN-08) Which labeled fact belongs to Jordan?",
+    "question_ar": "(JORDAN-08) أي حقيقة مُسماة تنتمي إلى الأردن؟",
+    "options_en": [
+      "Jordan Fact 7",
+      "Jordan Fact 8",
+      "Jordan Fact 9",
+      "Jordan Fact 10"
+    ],
+    "options_ar": [
+      "Jordan حقيقة 7",
+      "Jordan حقيقة 8",
+      "Jordan حقيقة 9",
+      "Jordan حقيقة 10"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Jordan fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة الأردن.",
+    "is_active": true
+  },
+  {
+    "category_slug": "jordan",
+    "difficulty": "medium",
+    "points": 20,
+    "question_en": "(JORDAN-09) Which labeled fact belongs to Jordan?",
+    "question_ar": "(JORDAN-09) أي حقيقة مُسماة تنتمي إلى الأردن؟",
+    "options_en": [
+      "Jordan Fact 8",
+      "Jordan Fact 9",
+      "Jordan Fact 10",
+      "Jordan Fact 11"
+    ],
+    "options_ar": [
+      "Jordan حقيقة 8",
+      "Jordan حقيقة 9",
+      "Jordan حقيقة 10",
+      "Jordan حقيقة 11"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Jordan fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة الأردن.",
+    "is_active": true
+  },
+  {
+    "category_slug": "jordan",
+    "difficulty": "medium",
+    "points": 20,
+    "question_en": "(JORDAN-10) Which labeled fact belongs to Jordan?",
+    "question_ar": "(JORDAN-10) أي حقيقة مُسماة تنتمي إلى الأردن؟",
+    "options_en": [
+      "Jordan Fact 9",
+      "Jordan Fact 10",
+      "Jordan Fact 11",
+      "Jordan Fact 12"
+    ],
+    "options_ar": [
+      "Jordan حقيقة 9",
+      "Jordan حقيقة 10",
+      "Jordan حقيقة 11",
+      "Jordan حقيقة 12"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Jordan fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة الأردن.",
+    "is_active": true
+  },
+  {
+    "category_slug": "jordan",
+    "difficulty": "medium",
+    "points": 20,
+    "question_en": "(JORDAN-11) Which labeled fact belongs to Jordan?",
+    "question_ar": "(JORDAN-11) أي حقيقة مُسماة تنتمي إلى الأردن؟",
+    "options_en": [
+      "Jordan Fact 10",
+      "Jordan Fact 11",
+      "Jordan Fact 12",
+      "Jordan Fact 13"
+    ],
+    "options_ar": [
+      "Jordan حقيقة 10",
+      "Jordan حقيقة 11",
+      "Jordan حقيقة 12",
+      "Jordan حقيقة 13"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Jordan fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة الأردن.",
+    "is_active": true
+  },
+  {
+    "category_slug": "jordan",
+    "difficulty": "medium",
+    "points": 20,
+    "question_en": "(JORDAN-12) Which labeled fact belongs to Jordan?",
+    "question_ar": "(JORDAN-12) أي حقيقة مُسماة تنتمي إلى الأردن؟",
+    "options_en": [
+      "Jordan Fact 11",
+      "Jordan Fact 12",
+      "Jordan Fact 13",
+      "Jordan Fact 14"
+    ],
+    "options_ar": [
+      "Jordan حقيقة 11",
+      "Jordan حقيقة 12",
+      "Jordan حقيقة 13",
+      "Jordan حقيقة 14"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Jordan fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة الأردن.",
+    "is_active": true
+  },
+  {
+    "category_slug": "jordan",
+    "difficulty": "hard",
+    "points": 30,
+    "question_en": "(JORDAN-13) Which labeled fact belongs to Jordan?",
+    "question_ar": "(JORDAN-13) أي حقيقة مُسماة تنتمي إلى الأردن؟",
+    "options_en": [
+      "Jordan Fact 12",
+      "Jordan Fact 13",
+      "Jordan Fact 14",
+      "Jordan Fact 15"
+    ],
+    "options_ar": [
+      "Jordan حقيقة 12",
+      "Jordan حقيقة 13",
+      "Jordan حقيقة 14",
+      "Jordan حقيقة 15"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Jordan fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة الأردن.",
+    "is_active": true
+  },
+  {
+    "category_slug": "jordan",
+    "difficulty": "hard",
+    "points": 30,
+    "question_en": "(JORDAN-14) Which labeled fact belongs to Jordan?",
+    "question_ar": "(JORDAN-14) أي حقيقة مُسماة تنتمي إلى الأردن؟",
+    "options_en": [
+      "Jordan Fact 13",
+      "Jordan Fact 14",
+      "Jordan Fact 15",
+      "Jordan Fact 1"
+    ],
+    "options_ar": [
+      "Jordan حقيقة 13",
+      "Jordan حقيقة 14",
+      "Jordan حقيقة 15",
+      "Jordan حقيقة 1"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Jordan fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة الأردن.",
+    "is_active": true
+  },
+  {
+    "category_slug": "jordan",
+    "difficulty": "hard",
+    "points": 30,
+    "question_en": "(JORDAN-15) Which labeled fact belongs to Jordan?",
+    "question_ar": "(JORDAN-15) أي حقيقة مُسماة تنتمي إلى الأردن؟",
+    "options_en": [
+      "Jordan Fact 14",
+      "Jordan Fact 15",
+      "Jordan Fact 1",
+      "Jordan Fact 2"
+    ],
+    "options_ar": [
+      "Jordan حقيقة 14",
+      "Jordan حقيقة 15",
+      "Jordan حقيقة 1",
+      "Jordan حقيقة 2"
+    ],
+    "correct_answer_index": 1,
+    "explanation_en": "In this seed dataset, each question maps to its matching Jordan fact label.",
+    "explanation_ar": "في بيانات البذور هذه، يرتبط كل سؤال بوسم الحقيقة المطابق ضمن فئة الأردن.",
+    "is_active": true
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "slug": "history",
+    "name_en": "History",
+    "name_ar": "تاريخ",
+    "icon": "📜",
+    "description_en": "Historical events and figures",
+    "description_ar": "الأحداث التاريخية والشخصيات",
+    "is_active": true
+  },
+  {
+    "slug": "science",
+    "name_en": "Science",
+    "name_ar": "علوم",
+    "icon": "🔬",
+    "description_en": "Discoveries and scientific principles",
+    "description_ar": "الاكتشافات والمبادئ العلمية",
+    "is_active": true
+  },
+  {
+    "slug": "sports",
+    "name_en": "Sports",
+    "name_ar": "رياضة",
+    "icon": "🏅",
+    "description_en": "Sports records and famous competitions",
+    "description_ar": "الأرقام القياسية والبطولات الشهيرة",
+    "is_active": true
+  },
+  {
+    "slug": "geography",
+    "name_en": "Geography",
+    "name_ar": "جغرافيا",
+    "icon": "🗺️",
+    "description_en": "Countries, capitals, and landscapes",
+    "description_ar": "الدول والعواصم والتضاريس",
+    "is_active": true
+  },
+  {
+    "slug": "movies",
+    "name_en": "Movies",
+    "name_ar": "أفلام",
+    "icon": "🎬",
+    "description_en": "Cinema, directors, and iconic films",
+    "description_ar": "السينما والمخرجون والأفلام الشهيرة",
+    "is_active": true
+  },
+  {
+    "slug": "music",
+    "name_en": "Music",
+    "name_ar": "موسيقى",
+    "icon": "🎵",
+    "description_en": "Songs, instruments, and artists",
+    "description_ar": "الأغاني والآلات والفنانون",
+    "is_active": true
+  },
+  {
+    "slug": "food",
+    "name_en": "Food",
+    "name_ar": "طعام",
+    "icon": "🍽️",
+    "description_en": "Cuisine, ingredients, and traditions",
+    "description_ar": "المطبخ والمكونات والتقاليد",
+    "is_active": true
+  },
+  {
+    "slug": "technology",
+    "name_en": "Technology",
+    "name_ar": "تكنولوجيا",
+    "icon": "💻",
+    "description_en": "Computers, software, and innovation",
+    "description_ar": "الحواسيب والبرمجيات والابتكار",
+    "is_active": true
+  },
+  {
+    "slug": "animals",
+    "name_en": "Animals",
+    "name_ar": "حيوانات",
+    "icon": "🦁",
+    "description_en": "Wildlife and animal facts",
+    "description_ar": "الحياة البرية وحقائق الحيوانات",
+    "is_active": true
+  },
+  {
+    "slug": "arts",
+    "name_en": "Arts",
+    "name_ar": "فنون",
+    "icon": "🎨",
+    "description_en": "Painting, sculpture, and creative works",
+    "description_ar": "الرسم والنحت والأعمال الإبداعية",
+    "is_active": true
+  },
+  {
+    "slug": "literature",
+    "name_en": "Literature",
+    "name_ar": "أدب",
+    "icon": "📚",
+    "description_en": "Books, authors, and classic writing",
+    "description_ar": "الكتب والمؤلفون والكتابات الكلاسيكية",
+    "is_active": true
+  },
+  {
+    "slug": "pop-culture",
+    "name_en": "Pop Culture",
+    "name_ar": "ثقافة شعبية",
+    "icon": "🌟",
+    "description_en": "Trends, entertainment, and modern media",
+    "description_ar": "الترندات والترفيه والإعلام الحديث",
+    "is_active": true
+  },
+  {
+    "slug": "arabic-culture",
+    "name_en": "Arabic Culture",
+    "name_ar": "الثقافة العربية",
+    "icon": "🕌",
+    "description_en": "Language, heritage, and traditions",
+    "description_ar": "اللغة والتراث والتقاليد",
+    "is_active": true
+  },
+  {
+    "slug": "middle-east",
+    "name_en": "Middle East",
+    "name_ar": "الشرق الأوسط",
+    "icon": "🏜️",
+    "description_en": "Regional history and geography",
+    "description_ar": "تاريخ وجغرافيا المنطقة",
+    "is_active": true
+  },
+  {
+    "slug": "jordan",
+    "name_en": "Jordan",
+    "name_ar": "الأردن",
+    "icon": "🇯🇴",
+    "description_en": "Jordanian culture, places, and history",
+    "description_ar": "الثقافة الأردنية والأماكن والتاريخ",
+    "is_active": true
+  }
+]

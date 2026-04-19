@@ -1,0 +1,55 @@
+{
+  "setup": {
+    "title": "شو هاظ",
+    "subtitle": "مين بيعرف أكثر؟",
+    "team1Label": "اسم الفريق الأول",
+    "team2Label": "اسم الفريق الثاني",
+    "timerLabel": "مدة المؤقت",
+    "categoriesPerTeamLabel": "عدد الفئات لكل فريق",
+    "startButton": "ابدأ اللعبة",
+    "validation": {
+      "teamNameRequired": "يرجى إدخال اسم لكلا الفريقين",
+      "timerRequired": "يرجى اختيار مدة المؤقت"
+    }
+  },
+  "categories": {
+    "title": "اختر الفئات",
+    "team1Picks": "{{team}} يختار 3 فئات",
+    "team2Picks": "{{team}} يختار 3 فئات",
+    "startButton": "لنلعب!",
+    "loading": "جاري تحميل الفئات...",
+    "generating": "جاري تجهيز اللعبة...",
+    "error": "تعذر تحميل الفئات. حاول مرة أخرى.",
+    "networkError": "تعذر الوصول للخادم. هل هو يعمل؟",
+    "serverError": "حدث خطأ. حاول مرة أخرى.",
+    "insufficientQuestions": "لا توجد أسئلة كافية لهذه الفئات.",
+    "empty": "لا توجد فئات متاحة الآن.",
+    "retry": "إعادة المحاولة",
+    "cancel": "إلغاء"
+  },
+  "game": {
+    "turn": "دور {{team}}",
+    "question": "السؤال {{current}} من {{total}}",
+    "aids": {
+      "fiftyFifty": "50/50",
+      "skip": "تخطي",
+      "freeze": "تجميد"
+    },
+    "feedback": {
+      "correct": "إجابة صحيحة! +{{points}} نقطة",
+      "wrong": "إجابة خاطئة!",
+      "timeUp": "انتهى الوقت!",
+      "correctAnswer": "الإجابة الصحيحة: {{answer}}"
+    },
+    "next": "السؤال التالي",
+    "finish": "إنهاء",
+    "noOne": "لا أحد",
+    "frozen": "مُجمَّد"
+  },
+  "results": {
+    "winner": "{{team}} يفوز!",
+    "tie": "تعادل!",
+    "finalScore": "النتيجة النهائية",
+    "playAgain": "العب مرة أخرى"
+  }
+}

@@ -1,0 +1,9 @@
+process.env.NODE_ENV ??= 'test';
+process.env.PORT ??= '3001';
+process.env.DATABASE_URL ??= 'postgresql://user:password@localhost:5432/testdb';
+process.env.CORS_ORIGIN ??= 'http://localhost:5173';
+process.env.ADMIN_API_TOKEN ??= 'test-token-32-chars-long-pad-pad-pad';
+process.env.QUESTIONS_PER_GAME ??= '18';
+process.env.CATEGORIES_TO_DISPLAY ??= '6';
+process.env.CATEGORIES_PER_TEAM ??= '3';
+process.env.LOG_LEVEL ??= 'error';
