@@ -16,29 +16,29 @@ apps/
 
 ## Stack
 
-- React 18 + Vite + TypeScript
+- React 19 + Vite + TypeScript
 - Express 5 + Prisma
 - PostgreSQL / Supabase
 - Zod
 - Vitest
-- npm workspaces
+- pnpm workspaces
 
 ## Quick Start
 
-1. Install dependencies from the repo root:
-   `npm install`
-2. Copy env files:
-   `cp apps/client/.env.example apps/client/.env`
-   `cp apps/server/.env.example apps/server/.env`
-3. Update `apps/server/.env` with your Supabase connection string and admin token.
-4. Generate the Prisma client:
-   `npm run db:generate`
-5. Run migrations:
-   `npm run db:migrate`
-6. Seed the database:
-   `npm run db:seed`
-7. Start both apps:
-   `npm run dev`
+1. Enable the pinned package manager:
+   `corepack enable`
+2. Install dependencies from the repo root:
+   `pnpm install`
+3. Create `apps/client/.env` and `apps/server/.env` using the values in `.env.example`.
+4. Update `apps/server/.env` with your Supabase connection string and admin token.
+5. Generate the Prisma client:
+   `pnpm db:generate`
+6. Run migrations:
+   `pnpm db:migrate`
+7. Seed the database:
+   `pnpm db:seed`
+8. Start both apps:
+   `pnpm dev`
 
 Local URLs:
 
@@ -47,16 +47,16 @@ Local URLs:
 
 ## Workspace Scripts
 
-- `npm run dev` runs client and server together
-- `npm run dev:client` runs only the frontend
-- `npm run dev:server` runs only the backend
-- `npm run lint` runs lint checks across both apps
-- `npm run typecheck` runs TypeScript checks across both apps
-- `npm run test` runs both test suites
-- `npm run build` builds both apps
-- `npm run db:generate` runs Prisma generation for the server
-- `npm run db:migrate` runs server database migrations
-- `npm run db:seed` seeds server data
+- `pnpm dev` runs client and server together
+- `pnpm dev:client` runs only the frontend
+- `pnpm dev:server` runs only the backend
+- `pnpm lint` runs lint checks across both apps
+- `pnpm typecheck` runs TypeScript checks across both apps
+- `pnpm test` runs both test suites
+- `pnpm build` builds both apps
+- `pnpm db:generate` runs Prisma generation for the server
+- `pnpm db:migrate` runs server database migrations
+- `pnpm db:seed` seeds server data
 
 ## App Docs
 
@@ -70,10 +70,10 @@ Local URLs:
 Run these from the repo root before pushing:
 
 ```bash
-npm run lint
-npm run typecheck
-npm run test
-npm run build
+pnpm lint
+pnpm typecheck
+pnpm test
+pnpm build
 ```
 
 ## Notes

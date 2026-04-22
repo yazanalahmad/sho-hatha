@@ -1,24 +1,25 @@
 {
   "name": "sho-hatha",
   "private": true,
+  "packageManager": "pnpm@10.33.0",
   "workspaces": [
     "apps/client",
     "apps/server"
   ],
   "scripts": {
-    "dev": "concurrently -n client,server -c cyan,green \"npm run dev -w @sho-hatha/client\" \"npm run dev -w @sho-hatha/server\"",
-    "dev:client": "npm run dev -w @sho-hatha/client",
-    "dev:server": "npm run dev -w @sho-hatha/server",
-    "build": "npm run build --workspaces --if-present",
-    "lint": "npm run lint --workspaces --if-present",
-    "typecheck": "npm run typecheck --workspaces --if-present",
-    "test": "npm run test --workspaces --if-present",
-    "test:coverage": "npm run test:coverage --workspaces --if-present",
-    "db:generate": "npm run db:generate -w @sho-hatha/server",
-    "db:migrate": "npm run db:migrate -w @sho-hatha/server",
-    "db:migrate:deploy": "npm run db:migrate:deploy -w @sho-hatha/server",
-    "db:seed": "npm run db:seed -w @sho-hatha/server",
-    "db:studio": "npm run db:studio -w @sho-hatha/server"
+    "dev": "concurrently -n client,server -c cyan,green \"pnpm --filter @sho-hatha/client dev\" \"pnpm --filter @sho-hatha/server dev\"",
+    "dev:client": "pnpm --filter @sho-hatha/client dev",
+    "dev:server": "pnpm --filter @sho-hatha/server dev",
+    "build": "pnpm -r --if-present run build",
+    "lint": "pnpm -r --if-present run lint",
+    "typecheck": "pnpm -r --if-present run typecheck",
+    "test": "pnpm -r --if-present run test",
+    "test:coverage": "pnpm -r --if-present run test:coverage",
+    "db:generate": "pnpm --filter @sho-hatha/server db:generate",
+    "db:migrate": "pnpm --filter @sho-hatha/server db:migrate",
+    "db:migrate:deploy": "pnpm --filter @sho-hatha/server db:migrate:deploy",
+    "db:seed": "pnpm --filter @sho-hatha/server db:seed",
+    "db:studio": "pnpm --filter @sho-hatha/server db:studio"
   },
   "devDependencies": {
     "concurrently": "^9.2.1"

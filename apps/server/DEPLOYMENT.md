@@ -19,13 +19,13 @@
    - `CATEGORIES_PER_TEAM=3`
    - `LOG_LEVEL=info`
 4. Build command:
-   - `npm ci && npx prisma generate && npm run build`
+   - `corepack enable && pnpm install --frozen-lockfile && pnpm db:generate && pnpm build`
 5. Start command:
-   - `npx prisma migrate deploy && npm start`
+   - `pnpm db:migrate:deploy && pnpm --filter @sho-hatha/server start`
 
 ## Seed Production Data (Run Once)
 ```bash
-DATABASE_URL=<production_database_url> npm run db:seed
+DATABASE_URL=<production_database_url> pnpm db:seed
 ```
 
 ## Verify

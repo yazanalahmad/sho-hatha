@@ -16,7 +16,7 @@ graph TD
 ```
 
 ## Tech Stack
-- React 18 + TypeScript (strict)
+- React 19 + TypeScript (strict)
 - Vite + Tailwind CSS
 - React Router v6
 - React Context + `useReducer`
@@ -26,11 +26,12 @@ graph TD
 - Vitest + React Testing Library
 
 ## Local Setup
-1. `npm install`
-2. Create `.env` from `.env.example`
-3. Start backend on `http://localhost:3001`
-4. `npm run dev`
-5. Open `http://localhost:5173`
+1. `corepack enable`
+2. `pnpm install`
+3. Create `apps/client/.env` using the client value in the repo root `.env.example`
+4. Start backend on `http://localhost:3001`
+5. `pnpm dev`
+6. Open `http://localhost:5173`
 
 ## Environment Variables
 - `VITE_API_URL`: backend URL (example `http://localhost:3001`)
@@ -95,8 +96,8 @@ Also capture Arabic versions to show RTL support.
 
 ## Verification
 ```bash
-npm run lint
-npm run typecheck
-npm test
-npm run build
+pnpm lint
+pnpm typecheck
+pnpm test
+pnpm build
 ```
