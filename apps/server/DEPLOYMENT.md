@@ -3,8 +3,8 @@
 ## Supabase Setup
 1. Create a project on Supabase.
 2. Open `Connect -> ORMs -> Prisma`.
-3. For environments without IPv6, copy the `Session pooler` connection string and use it as `DATABASE_URL`.
-4. Only use the direct `db.<project-ref>.supabase.co:5432` URI when the runtime has IPv6 connectivity.
+3. Copy the direct PostgreSQL connection string and use it as `DATABASE_URL`.
+4. Add `sslmode=require` to the connection string.
 
 ## Railway Setup (No Docker)
 1. Push `sho-hatha-backend` to GitHub.
@@ -36,7 +36,7 @@ curl https://your-backend.railway.app/api/config
 
 ## Troubleshooting
 - Migration errors: verify `DATABASE_URL` uses `postgresql://` format.
-- `Can't reach database server at db.<project-ref>.supabase.co:5432`: your environment likely does not have IPv6 routing. Switch `DATABASE_URL` to the Supabase `Session pooler` URL.
+- Database connection errors: verify the database password, host, and `sslmode=require`.
 - CORS errors: match `CORS_ORIGIN` exactly to frontend URL.
 - Runtime 500: inspect Railway logs.
 - Seed issues: run migrations first, then seed.

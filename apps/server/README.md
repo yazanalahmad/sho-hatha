@@ -41,7 +41,7 @@ data/             seed data for categories and questions
 2. Copy the example environment file:
    `cp .env.example .env`
 3. Set `DATABASE_URL`.
-   For local IPv4-only environments such as many WSL setups, use the Supabase `Session pooler` connection string from `Connect -> ORMs -> Prisma`.
+   Use the direct Supabase PostgreSQL connection string with `sslmode=require`.
 4. Set a strong `ADMIN_API_TOKEN`.
 5. Generate the Prisma client:
    `npm run db:generate`
@@ -71,11 +71,6 @@ curl http://localhost:3001/health
 | `CATEGORIES_TO_DISPLAY` | yes | Public config value for the frontend |
 | `CATEGORIES_PER_TEAM` | yes | Categories each team must pick |
 | `LOG_LEVEL` | yes | `debug`, `info`, `warn`, or `error` |
-
-Supabase note:
-
-- `db.<project-ref>.supabase.co:5432` is the direct host and commonly requires IPv6.
-- On IPv4-only machines, prefer the Supabase `Session pooler` URL on port `5432`.
 
 ## Scripts
 

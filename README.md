@@ -78,5 +78,5 @@ npm run build
 
 ## Notes
 
-- Use the Supabase `Session pooler` URL for local environments that do not have IPv6 routing.
+- Use the direct Supabase PostgreSQL URL with `sslmode=require`.
 - The admin API uses a shared token, which is fine for this project but not a full admin/auth system.
