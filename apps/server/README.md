@@ -36,21 +36,22 @@ data/             seed data for categories and questions
 
 ## Getting Started
 
-1. Install dependencies:
-   `npm install`
-2. Copy the example environment file:
-   `cp .env.example .env`
-3. Set `DATABASE_URL`.
+1. Enable the pinned package manager:
+   `corepack enable`
+2. Install dependencies:
+   `pnpm install`
+3. Create `apps/server/.env` using the server values in the repo root `.env.example`.
+4. Set `DATABASE_URL`.
    Use the direct Supabase PostgreSQL connection string with `sslmode=require`.
-4. Set a strong `ADMIN_API_TOKEN`.
-5. Generate the Prisma client:
-   `npm run db:generate`
-6. Apply migrations:
-   `npm run db:migrate`
-7. Seed the database:
-   `npm run db:seed`
-8. Start the API:
-   `npm run dev`
+5. Set a strong `ADMIN_API_TOKEN`.
+6. Generate the Prisma client:
+   `pnpm db:generate`
+7. Apply migrations:
+   `pnpm db:migrate`
+8. Seed the database:
+   `pnpm db:seed`
+9. Start the API:
+   `pnpm dev`
 
 Health check:
 
@@ -76,18 +77,18 @@ curl http://localhost:3001/health
 
 | Command | Purpose |
 | --- | --- |
-| `npm run dev` | Start the development server with file watching |
-| `npm run build` | Compile TypeScript to `dist/` |
-| `npm start` | Run the compiled server |
-| `npm test` | Run the test suite |
-| `npm run test:coverage` | Run tests with coverage |
-| `npm run lint` | Run ESLint |
-| `npm run typecheck` | Run TypeScript checks without emitting files |
-| `npm run db:generate` | Generate Prisma client |
-| `npm run db:migrate` | Run Prisma development migrations |
-| `npm run db:migrate:deploy` | Apply migrations in deployment environments |
-| `npm run db:seed` | Seed categories and questions |
-| `npm run db:studio` | Open Prisma Studio |
+| `pnpm dev` | Start the development server with file watching |
+| `pnpm build` | Compile TypeScript to `dist/` |
+| `pnpm start` | Run the compiled server |
+| `pnpm test` | Run the test suite |
+| `pnpm test:coverage` | Run tests with coverage |
+| `pnpm lint` | Run ESLint |
+| `pnpm typecheck` | Run TypeScript checks without emitting files |
+| `pnpm db:generate` | Generate Prisma client |
+| `pnpm db:migrate` | Run Prisma development migrations |
+| `pnpm db:migrate:deploy` | Apply migrations in deployment environments |
+| `pnpm db:seed` | Seed categories and questions |
+| `pnpm db:studio` | Open Prisma Studio |
 
 ## API Overview
 
@@ -150,8 +151,8 @@ This keeps the project portable and makes content changes reviewable in pull req
 For a fresh database:
 
 ```bash
-npm run db:migrate:deploy
-npm run db:seed
+pnpm db:migrate:deploy
+pnpm db:seed
 ```
 
 ## Verification
@@ -159,10 +160,10 @@ npm run db:seed
 Run these before opening a PR or pushing to a public branch:
 
 ```bash
-npm run lint
-npm run typecheck
-npm test
-npm run build
+pnpm lint
+pnpm typecheck
+pnpm test
+pnpm build
 ```
 
 ## Security Notes
