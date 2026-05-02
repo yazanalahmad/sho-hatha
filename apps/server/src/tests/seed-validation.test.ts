@@ -7,9 +7,10 @@ type QuestionSeed = {
   difficulty: 'easy' | 'medium' | 'hard';
   points: number;
   question_en: string;
-  options_en: string[];
+  answer_en?: string;
+  options_en?: string[];
   options_ar?: string[];
-  correct_answer_index: number;
+  correct_answer_index?: number;
 };
 
 type CategorySeed = { slug: string };
@@ -22,19 +23,24 @@ const questions = JSON.parse(
 ) as QuestionSeed[];
 
 describe('Seed data validation', () => {
-  it('all questions have exactly 4 options', () => {
+  it('question options are valid when present', () => {
     for (const question of questions) {
-      expect(question.options_en).toHaveLength(4);
+      if (question.options_en) {
+        expect(question.options_en).toHaveLength(4);
+      }
       if (question.options_ar) {
         expect(question.options_ar).toHaveLength(4);
       }
     }
   });
 
-  it('correct_answer_index is 0–3 for every question', () => {
+  it('questions have an answer or a valid correct_answer_index', () => {
     for (const question of questions) {
-      expect(question.correct_answer_index).toBeGreaterThanOrEqual(0);
-      expect(question.correct_answer_index).toBeLessThanOrEqual(3);
+      expect(Boolean(question.answer_en) || question.correct_answer_index !== undefined).toBe(true);
+      if (question.correct_answer_index !== undefined) {
+        expect(question.correct_answer_index).toBeGreaterThanOrEqual(0);
+        expect(question.correct_answer_index).toBeLessThanOrEqual(3);
+      }
     }
   });
 

@@ -11,9 +11,11 @@ export interface QuestionInput {
   question_en: string;
   question_ar?: string;
   image_url?: string | null;
-  options_en: [string, string, string, string];
+  answer_en?: string;
+  answer_ar?: string;
+  options_en?: [string, string, string, string];
   options_ar?: [string, string, string, string];
-  correct_answer_index: 0 | 1 | 2 | 3;
+  correct_answer_index?: 0 | 1 | 2 | 3;
   explanation_en?: string;
   explanation_ar?: string;
   is_active?: boolean;

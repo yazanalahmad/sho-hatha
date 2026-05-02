@@ -58,8 +58,7 @@ describe('Admin questions CRUD', () => {
       category_id: '11111111-1111-4111-8111-111111111111',
       difficulty: 'easy',
       question_en: 'Valid question text',
-      options_en: ['A', 'B', 'C', 'D'],
-      correct_answer_index: 0,
+      answer_en: 'A',
     });
     expect(parsed.difficulty).toBe('easy');
   });
@@ -70,8 +69,7 @@ describe('Admin questions CRUD', () => {
       difficulty: 'hard',
       points: 10,
       question_en: 'Question that ignores points',
-      options_en: ['A', 'B', 'C', 'D'],
-      correct_answer_index: 1,
+      answer_en: 'Correct answer',
     });
     expect(parsed.difficulty).toBe('hard');
   });
@@ -86,6 +84,17 @@ describe('Admin questions CRUD', () => {
         correct_answer_index: 0,
       }),
     ).toThrow();
+  });
+
+  it('accepts legacy multiple-choice questions', () => {
+    const parsed = createQuestionSchema.parse({
+      category_id: '11111111-1111-4111-8111-111111111111',
+      difficulty: 'easy',
+      question_en: 'Multiple choice question',
+      options_en: ['A', 'B', 'C', 'D'],
+      correct_answer_index: 0,
+    });
+    expect(parsed.options_en).toHaveLength(4);
   });
 
   it('rejects correct_answer_index > 3', () => {

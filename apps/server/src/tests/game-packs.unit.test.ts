@@ -25,6 +25,8 @@ function buildRows(start: number, difficulty: Difficulty, count: number) {
     points: difficulty === 'easy' ? 10 : difficulty === 'medium' ? 20 : 30,
     question_en: `${difficulty} question ${start + i}`,
     question_ar: null,
+    answer_en: 'A',
+    answer_ar: null,
     options_en: ['A', 'B', 'C', 'D'],
     options_ar: null,
     correct_answer_index: 0,

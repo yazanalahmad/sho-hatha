@@ -33,9 +33,11 @@ export interface QuestionData {
   points: 10 | 20 | 30;
   question_en: string;
   question_ar: string | null;
-  options_en: string[];
+  answer_en: string | null;
+  answer_ar: string | null;
+  options_en: string[] | null;
   options_ar: string[] | null;
-  correct_answer_index: number;
+  correct_answer_index: number | null;
   explanation_en: string | null;
   explanation_ar: string | null;
 }
@@ -47,9 +49,11 @@ export interface BoardQuestionData {
   pointValue: 1 | 2 | 3;
   question_en: string;
   question_ar: string | null;
-  options_en: string[];
+  answer_en: string | null;
+  answer_ar: string | null;
+  options_en: string[] | null;
   options_ar: string[] | null;
-  correct_answer_index: number;
+  correct_answer_index: number | null;
   explanation_en: string | null;
   explanation_ar: string | null;
 }

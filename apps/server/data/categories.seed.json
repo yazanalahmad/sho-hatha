@@ -126,12 +126,21 @@
     "is_active": true
   },
   {
-    "slug": "jordan",
-    "name_en": "Jordan",
-    "name_ar": "الأردن",
-    "icon": "🇯🇴",
-    "description_en": "Jordanian culture, places, and history",
-    "description_ar": "الثقافة الأردنية والأماكن والتاريخ",
+    "slug": "league-of-legends",
+    "name_en": "League of Legends",
+    "name_ar": "ليغ أوف ليجندز",
+    "icon": "⚔️",
+    "description_en": "Champions, roles, items, esports, and Runeterra lore",
+    "description_ar": "الأبطال والأدوار والعناصر والرياضات الإلكترونية وقصة رونتيرا",
+    "is_active": true
+  },
+  {
+    "slug": "games",
+    "name_en": "Games",
+    "name_ar": "ألعاب",
+    "icon": "🎮",
+    "description_en": "Video games, genres, consoles, studios, and gaming culture",
+    "description_ar": "ألعاب الفيديو والأنواع والأجهزة والاستوديوهات وثقافة اللعب",
     "is_active": true
   }
 ]

@@ -10,6 +10,8 @@ function mkQuestion(id: string, points: 10 | 20 | 30 = 10) {
     points,
     question_en: `Question ${id}`,
     question_ar: null,
+    answer_en: 'B1',
+    answer_ar: null,
     options_en: ['A1', 'B1', 'C1', 'D1'],
     options_ar: null,
     correct_answer_index: 1,
