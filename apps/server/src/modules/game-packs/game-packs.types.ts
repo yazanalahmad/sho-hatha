@@ -8,9 +8,11 @@ export interface GameQuestion {
   question_en: string;
   question_ar: string | null;
   image_url: string | null;
-  options_en: [string, string, string, string];
+  answer_en: string | null;
+  answer_ar: string | null;
+  options_en: [string, string, string, string] | null;
   options_ar: [string, string, string, string] | null;
-  correct_answer_index: 0 | 1 | 2 | 3;
+  correct_answer_index: 0 | 1 | 2 | 3 | null;
   explanation_en: string | null;
   explanation_ar: string | null;
 }
@@ -65,9 +67,11 @@ export interface BoardQuestion {
   question_en: string;
   question_ar: string | null;
   image_url: string | null;
-  options_en: [string, string, string, string];
+  answer_en: string | null;
+  answer_ar: string | null;
+  options_en: [string, string, string, string] | null;
   options_ar: [string, string, string, string] | null;
-  correct_answer_index: 0 | 1 | 2 | 3;
+  correct_answer_index: 0 | 1 | 2 | 3 | null;
   explanation_en: string | null;
   explanation_ar: string | null;
 }

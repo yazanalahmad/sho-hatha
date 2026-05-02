@@ -87,7 +87,7 @@ export function gameReducer(state: GameState, action: GameAction): GameState {
         return state;
       }
 
-      const correct = action.answerIndex === question.correct_answer_index;
+      const correct = question.correct_answer_index !== null && action.answerIndex === question.correct_answer_index;
       const points = correct ? scoreForDifficulty(question.difficulty) : 0;
       const withScore = applyScore(state, points);
 

@@ -11,12 +11,17 @@ const baseQuestionSchema = z.object({
   question_en: z.string().min(5).max(500),
   question_ar: z.string().min(5).max(500).optional(),
   image_url: z.string().url().nullable().optional(),
-  options_en: z.array(z.string().min(1)).length(4),
+  answer_en: z.string().min(1).max(500).optional(),
+  answer_ar: z.string().min(1).max(500).optional(),
+  options_en: z.array(z.string().min(1)).length(4).optional(),
   options_ar: z.array(z.string().min(1)).length(4).optional(),
-  correct_answer_index: z.number().int().min(0).max(3),
+  correct_answer_index: z.number().int().min(0).max(3).optional(),
   explanation_en: z.string().max(1000).optional(),
   explanation_ar: z.string().max(1000).optional(),
   is_active: z.boolean().optional(),
+}).refine((value) => value.answer_en || (value.options_en && value.correct_answer_index !== undefined), {
+  message: 'question must include answer_en or multiple-choice options with correct_answer_index',
+  path: ['answer_en'],
 });
 
 export const createQuestionSchema = baseQuestionSchema;

@@ -23,9 +23,11 @@ const questionSeedSchema = z
     question_en: z.string().min(5),
     question_ar: z.string().optional(),
     image_url: z.string().min(1).optional().nullable(),
-    options_en: z.array(z.string().min(1)).length(4),
+    answer_en: z.string().min(1).optional(),
+    answer_ar: z.string().min(1).optional(),
+    options_en: z.array(z.string().min(1)).length(4).optional(),
     options_ar: z.array(z.string().min(1)).length(4).optional(),
-    correct_answer_index: z.number().int().min(0).max(3),
+    correct_answer_index: z.number().int().min(0).max(3).optional(),
     explanation_en: z.string().optional(),
     explanation_ar: z.string().optional(),
     is_active: z.boolean().default(true),
@@ -37,6 +39,13 @@ const questionSeedSchema = z
         code: z.ZodIssueCode.custom,
         message: `points must match difficulty (${value.difficulty} => ${pointsMap[value.difficulty]})`,
         path: ['points'],
+      });
+    }
+    if (!value.answer_en && (!value.options_en || value.correct_answer_index === undefined)) {
+      ctx.addIssue({
+        code: z.ZodIssueCode.custom,
+        message: 'question must include answer_en or multiple-choice options with correct_answer_index',
+        path: ['answer_en'],
       });
     }
   });
@@ -107,6 +116,8 @@ async function main(): Promise<void> {
         question_en: question.question_en,
         question_ar: question.question_ar,
         image_url: question.image_url ?? null,
+        answer_en: question.answer_en,
+        answer_ar: question.answer_ar,
         options_en: question.options_en,
         options_ar: question.options_ar,
         correct_answer_index: question.correct_answer_index,
@@ -120,6 +131,8 @@ async function main(): Promise<void> {
         points: question.points,
         question_ar: question.question_ar,
         image_url: question.image_url ?? null,
+        answer_en: question.answer_en,
+        answer_ar: question.answer_ar,
         options_en: question.options_en,
         options_ar: question.options_ar,
         correct_answer_index: question.correct_answer_index,

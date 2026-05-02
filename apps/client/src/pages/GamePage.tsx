@@ -188,6 +188,15 @@ export function GamePage() {
       setTimerStartedAt(Date.now());
     };
 
+    const getAnswerText = (question: BoardQuestionData) => {
+      const localizedAnswer = isArabic ? (question.answer_ar ?? question.answer_en) : question.answer_en;
+      if (localizedAnswer) return localizedAnswer;
+
+      const options = isArabic ? (question.options_ar ?? question.options_en) : question.options_en;
+      if (!Array.isArray(options) || question.correct_answer_index === null) return '';
+      return options[question.correct_answer_index] ?? '';
+    };
+
     const finalizeQuestion = (awardedTeam: 1 | 2 | null) => {
       if (!activeQuestion) return;
 
@@ -327,7 +336,7 @@ export function GamePage() {
                     <div className="space-y-3">
                       <div className="text-2xl text-correct">
                         {t('game.feedback.correctAnswer', {
-                          answer: (isArabic ? (activeQuestion.options_ar ?? activeQuestion.options_en) : activeQuestion.options_en)[activeQuestion.correct_answer_index] ?? '',
+                          answer: getAnswerText(activeQuestion),
                         })}
                       </div>
                       <div className="grid grid-cols-1 md:grid-cols-3 gap-3">
@@ -361,6 +370,7 @@ export function GamePage() {
   const questionText = isArabic ? (question.question_ar ?? question.question_en) : question.question_en;
   const rawOptions = isArabic ? (question.options_ar ?? question.options_en) : question.options_en;
   const options = Array.isArray(rawOptions) ? rawOptions : [];
+  const answerText = isArabic ? (question.answer_ar ?? question.answer_en) : question.answer_en;
   const explanation = isArabic ? (question.explanation_ar ?? question.explanation_en) : question.explanation_en;
 
   const currentTeam = state.currentTurn === 1 ? state.team1 : state.team2;
@@ -385,6 +395,9 @@ export function GamePage() {
       return;
     }
     dispatch({ type: 'USE_AID', team: state.currentTurn, aidType: 'fiftyFifty' });
+    if (question.correct_answer_index === null) {
+      return;
+    }
     dispatch({ type: 'SET_REMOVED_OPTIONS', indices: pick50(question.correct_answer_index) });
   };
 
@@ -451,7 +464,7 @@ export function GamePage() {
           correct={Boolean(state.lastAnswerCorrect)}
           timedOut={selectedAnswer === null && !state.lastAnswerCorrect}
           points={state.pointsAwarded ?? 0}
-          correctAnswerText={options[state.lastCorrectAnswerIndex ?? 0] ?? ''}
+          correctAnswerText={answerText ?? options[state.lastCorrectAnswerIndex ?? 0] ?? ''}
           explanation={explanation}
           onNext={onNext}
         />

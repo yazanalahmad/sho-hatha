@@ -33,9 +33,11 @@ model Question {
   question_en          String   @unique
   question_ar          String?
   image_url            String?
-  options_en           Json
+  answer_en            String?
+  answer_ar            String?
+  options_en           Json?
   options_ar           Json?
-  correct_answer_index Int
+  correct_answer_index Int?
   explanation_en       String?
   explanation_ar       String?
   is_active            Boolean  @default(true)
